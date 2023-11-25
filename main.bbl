@@ -97,6 +97,30 @@ ds:ds38}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Deutsches Institut für Normung e.V.}%
+}{%
+{Deutsches Institut für Normung e.V.}%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+DIN18041}
+\APACinsertmetastar {%
+DIN18041}%
+\begin{APACrefauthors}%
+{Deutsches Institut für Normung e.V.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {DIN 18041:2016-03 - Acoustic Quality in Small and Medium-sized
+  Rooms} {Din 18041:2016-03 - acoustic quality in small and medium-sized
+  rooms}\ \APACbVolEdTR {}{DIN Standard\ \BNUM\ DIN 18041}.
+\newblock
+\APACaddressInstitution{Berlin, Germany}{Beuth Verlag GmbH}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Dirección de Vinculación con el Medio}%
 }{%
 {Dirección de Vinculación con el Medio}%
