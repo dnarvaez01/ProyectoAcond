@@ -25,11 +25,13 @@ A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones m�
 \subsection{Modelación en EASE}
 A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{ease}, verificando las superficies y que estos estén bien cerrados para un correcto uso en en el programa. Para calibrar los modelos, se identificó los materiales de cada sala, para poder asignar los coeficientes de absorción a cada superficie correspondientemente. En la tabla \ref{tab:materiales-ease} se pueden observar los materiales que se le asignaran a las distintas superficies y su respectivo coeficiente de absorción, además de la fuente de donde se extrajeron estos datos. Las superficies cuyo material es desconocido, fueron despejadas desde la ecuación \ref{eq:T60}.
 
-%tabla con coeficientes y fuente bibliografica.
+%tabla con coeficientes y fuente bibliográfica.
 
 
 \begin{table}[H]
-\centering
+    \centering
+    \caption{Materiales utilizados para modelo en EASE.}
+    \label{tab:materiales-ease}
     \begin{tabular}{|c|cccccc|c|}
     \hline
     \multirow{2}{*}{Material} & \multicolumn{6}{c|}{Frecuencia (Hz)}                                                                          & \multirow{2}{*}{Fuente} \\ \cline{2-7} 
@@ -39,6 +41,16 @@ A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{
     Black Acoustic Board (2") & \multicolumn{1}{c|}{$0.13$} & \multicolumn{1}{c|}{$0.75$} & \multicolumn{1}{c|}{$1.17$} & \multicolumn{1}{c|}{$1.14$} & \multicolumn{1}{c|}{$1.05$} & $1.09$ & \cite{blackboard}\\ \hline
     Vidrio  & \multicolumn{1}{c|}{$0.05$} & \multicolumn{1}{c|}{$0.5$} & \multicolumn{1}{c|}{$0.03$} & \multicolumn{1}{c|}{$0.03$} & \multicolumn{1}{c|}{$0.02$} & $0.02$ & \cite{Recuero}\\ \hline
     \end{tabular}
-    \caption{Materiales utilizados para modelo en EASE.}
-    \label{tab:materiales-ease}
+\end{table}
+
+\noindent Para tener modelar la sala ocupada se consideró el siguiente coeficiente de absorción por persona:
+\begin{table}[H]
+    \centering
+    \caption{Coeficiente de absorción de una persona sentada de EASE}
+    \label{tab: coef abs persona}
+    \begin{tabular}{|l|l|l|l|l|l|l|}
+    \hline
+    \textbf{Frecuencia Hz}      & $125$  & $250$  & $500$  & $1000$ & $2000$ & $4000$ \\ \hline
+    \textbf{Absorción $\alpha$} & $0.31$ & $0.51$ & $0.73$ & $0.80$ & $0.82$ & $0.82$ \\ \hline
+    \end{tabular}
 \end{table}
