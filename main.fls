@@ -349,9 +349,9 @@ INPUT Contenido\6.Modelación.aux
 INPUT .\Contenido\7.Recomendaciones.aux
 INPUT .\Contenido\7.Recomendaciones.aux
 INPUT Contenido\7.Recomendaciones.aux
-INPUT .\Contenido\8.Resultados.aux
-INPUT .\Contenido\8.Resultados.aux
-INPUT Contenido\8.Resultados.aux
+INPUT .\Contenido\8.ResultadosActual.aux
+INPUT .\Contenido\8.ResultadosActual.aux
+INPUT Contenido\8.ResultadosActual.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT Contenido\Conclusion.aux
@@ -591,12 +591,12 @@ INPUT .\Contenido\7.Recomendaciones.tex
 INPUT .\Contenido\7.Recomendaciones.tex
 INPUT .\Contenido\7.Recomendaciones.tex
 INPUT Contenido\7.Recomendaciones.tex
-INPUT .\Contenido\8.Resultados.tex
-OUTPUT Contenido\8.Resultados.aux
-INPUT .\Contenido\8.Resultados.tex
-INPUT .\Contenido\8.Resultados.tex
-INPUT .\Contenido\8.Resultados.tex
-INPUT Contenido\8.Resultados.tex
+INPUT .\Contenido\8.ResultadosActual.tex
+OUTPUT Contenido\8.ResultadosActual.aux
+INPUT .\Contenido\8.ResultadosActual.tex
+INPUT .\Contenido\8.ResultadosActual.tex
+INPUT .\Contenido\8.ResultadosActual.tex
+INPUT Contenido\8.ResultadosActual.tex
 INPUT .\Imagenes\Resultados\Curvas NC-NR\NC reunion 1.png
 INPUT .\Imagenes\Resultados\Curvas NC-NR\NC reunion 1.png
 INPUT .\Imagenes\Resultados\Curvas NC-NR\NC reunion 1.png
@@ -632,13 +632,6 @@ INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Contenido\Conclusion.tex
 INPUT .\Contenido\Conclusion.tex
 OUTPUT Contenido\Conclusion.aux
@@ -772,9 +765,9 @@ INPUT Contenido\6.Modelación.aux
 INPUT .\Contenido\7.Recomendaciones.aux
 INPUT .\Contenido\7.Recomendaciones.aux
 INPUT Contenido\7.Recomendaciones.aux
-INPUT .\Contenido\8.Resultados.aux
-INPUT .\Contenido\8.Resultados.aux
-INPUT Contenido\8.Resultados.aux
+INPUT .\Contenido\8.ResultadosActual.aux
+INPUT .\Contenido\8.ResultadosActual.aux
+INPUT Contenido\8.ResultadosActual.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT Contenido\Conclusion.aux

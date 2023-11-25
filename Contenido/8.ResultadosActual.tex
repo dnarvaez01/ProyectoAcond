@@ -1,7 +1,6 @@
-\section{Resultados}
-\subsection{Resultados de mediciones de parámetros acústicos}
+\section{Resultados del estado actual de los recintos}
 A continuación se muestran los resultados de las mediciones y parámetros más específicos del ruido de fondo y tiempo de reverberación, como curvas NC y NR, claridad ($C_{50}$, $C_{80}$) y definición $D_{50}$.
-\subsubsection{Ruido de fondo}
+\subsection{Ruido de fondo}
 En las figuras \ref{fig: Curvas NC sala 1}, \ref{fig: Curvas NC sala 2} y \ref{fig: Curvas NC sala de ensayo}, se pueden observar los valores obtenidos del ruido de fondo en bandas de octava con su respectiva curva NC más cercana.
     \begin{figure}[H]
         \centering
@@ -39,10 +38,9 @@ Según las recomendaciones mencionadas en la sección \ref{secc: Recomendaciones
     \label{tab: cumplimiento de Rdf}
     \end{table}
 
-\subsubsection{Tiempo de reverberación}
+\subsection{Tiempo de reverberación}
+\subsubsection{Salas de reunión}
 A partir del tiempo de reverberación medido (ver anexo ...), se obtienen los gráficos de tiempo de reverberación descritos en la norma DIN18041 para las salas de reunión.
-\begin{itemize}
-    \item Salas de reunión 1 y 2
     \begin{figure}[H]
         \centering
         \includegraphics[width=7cm]{Imagenes/DIN/DIN sala reunion 1 actual.png}
@@ -62,34 +60,25 @@ A continuación se muestra una tabla con los valores obtenidos a partir de las m
         \centering
         \begin{tabular}{|l|c|c|c|}
         \hline
-          \textbf{Parámetro}  & \textbf{Recomendación} & \textbf{Sala de reunión 1} & \textbf{Sala de reunión 2}\\ \hline
-          $T_{target} (s)$ & 0.6 & \textcolor{red}{No cumple} & \textcolor{red}{No cumple}\\ \hline
-          $C_{50speech}$ & $C_{50speech}>0$ & \textcolor{teal}{1.79} & \textcolor{teal}{0.89} \\ \hline
-          STI & STI $>$ 0.45 & \textcolor{teal}{0.66} & \textcolor{teal}{0.64}\\\hline
+          \textbf{Parámetro}  & \textbf{Recomendación} & \textbf{Sala de reunión $1$} & \textbf{Sala de reunión $2$}\\ \hline
+          $T_{target} (s)$    & $0.6$ & \textcolor{red}{No cumple} & \textcolor{red}{No cumple}\\ \hline
+          $C_{50speech}$      & $C_{50speech}>0$ & \textcolor{teal}{$1.79$} & \textcolor{teal}{$0.89$} \\ \hline
+          STI & STI $> 0.45$  & \textcolor{teal}{$0.66$} & \textcolor{teal}{$0.64$}\\\hline
         \end{tabular}
         \caption{Parámetros acústicos de las salas de reunión}
         \label{tab: cumplimiento parametros RT salas de reuniones}
     \end{table}
-    \item Sala de ensayo
-       Para la sala de ensayo, se determinaron parámetros como $RT_{mid}$ y claridad, parámetros que se compararon con los recomendados en la siguiente tabla. (ver tabla \ref{tab:prametros acusticos sala ensayo}).
+\subsubsection{Sala de ensayo}
+    Para la sala de ensayo, se determinaron parámetros como $RT_{mid}$ y claridad, parámetros que se compararon con los recomendados en la siguiente tabla. (ver tabla \ref{tab:parametros acusticos sala ensayo}).
     \begin{table}[H]
         \centering
         \begin{tabular}{|l|c|c|}
         \hline
         \textbf{Parámetro}& \textbf{Recomendación} & \textbf{Sala de ensayo}\\ \hline
-        $RT{mid} (s)$&  0.74 & \textcolor{red}{0.74} \\ \hline
-        $C_{80}$ & $-2<C_{80}<2$ & \textcolor{red}{6.04} \\\hline
-        $D_{50}$ & $D_{50}<$ 0.5 & \textcolor{red}{No cumple} \\\hline
+        $RT{mid} (s)$ &  $1.3$ - $1.7$  & \textcolor{red}{$0.74$} \\ \hline
+        $C_{80}$      & $-2<C_{80}<2$   & \textcolor{red}{$6.04$} \\\hline
+        $D_{50}$      & $D_{50}<$ $0.5$   & \textcolor{red}{No cumple} \\\hline
         \end{tabular}
         \caption{Parámetros acústicos de la sala de ensayo y su estado}
-        \label{tab:prametros acusticos sala ensayo}
+        \label{tab:parametros acusticos sala ensayo}
     \end{table}
-    \item $D_{50}$ 
-    También se determinó el parámetro de definición ($D_{50}$) para la sala de ensayo (ver figura \ref{fig: D50 sala de ensayo}), el cual esta fuera de lo recomendado.
-    \begin{figure}[H]
-        \centering
-        \includegraphics[scale=0.5]{Imagenes/Resultados/D50_ensayo.png}
-        \caption{$D_{50}$ de sala de ensayo}
-        \label{fig: D50 sala de ensayo}
-    \end{figure}
-\end{itemize}
