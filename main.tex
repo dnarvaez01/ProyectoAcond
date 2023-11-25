@@ -1,0 +1,59 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{apacite}
+\usepackage{float}
+\let\cite\shortcite
+\usepackage{setspace}
+\usepackage{subfig}
+\usepackage{multirow}
+\usepackage{tablefootnote}
+\usepackage{dcolumn}
+\usepackage{caption}
+\usepackage{amsmath}
+
+\usepackage{enumitem,booktabs,cfr-lm}
+\makeatother
+
+\spacing{1}
+\usepackage[table,xcdraw]{xcolor} 
+\usepackage{pgf}
+\usepackage{pgfplots} 
+\pgfplotsset{compat=newest}
+\pgfplotsset{plot coordinates/math parser=false}
+\usepackage{pdfpages}
+
+\bibliographystyle{apacite}
+\usepackage[a4paper]{geometry}
+\geometry{top=2.54 cm, bottom=2.54 cm, left=2.54 cm, right=2.54 cm}
+
+\renewcommand*\contentsname{Índice}
+\renewcommand{\figurename}{Figura}
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\theenumi}{E\arabic{enumi}}
+\renewcommand{\listfigurename}{Índice de Figuras}
+\renewcommand{\listtablename}{Índice de Tablas}
+
+\newcommand\nafootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{\textit{n.a.} No aplica}%
+  \endgroup
+}
+\begin{document}
+\renewcommand{\refname}{Referencias}
+\include{Portada}
+\tableofcontents
+\newpage
+\include{Contenido/1.Introduccion}
+%\include{Contenido/2.Objetivos}
+\include{Contenido/3.Antecedentes}
+\include{Contenido/4.Planificacion}
+\include{Contenido/5.Metodologia}
+\include{Contenido/6.Modelación}
+\include{Contenido/7.Recomendaciones}
+\include{Contenido/8.Resultados}
+\include{Contenido/Conclusion}
+\bibliography{referencias}
+\include{Contenido/Anexo}
+\end{document}

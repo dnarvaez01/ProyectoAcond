@@ -1,0 +1,44 @@
+\section{Modelación}
+\subsection{Modelación en SketchUp}
+A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones más detalladas de cada sala, se modeló las tres salas en el software SketchUp \cite{sketchup}, resultando los modelos de las figuras \ref{fig: sketchup sala 1}, \ref{fig: sketchup sala 2} y \ref{fig: sketchup sala de ensayo}, tomando en consideración muebles que utilizaban mayor volumen en las salas de reuniones. 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=8cm]{Imagenes/Modelacion/Sala 1 Sketchup.png}
+    \caption{Modelo en SketchUp de Sala de reunión 1}
+    \label{fig: sketchup sala 1}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=8cm]{Imagenes/Modelacion/Sala 2 Sketchup.png}
+    \caption{Modelo en SketchUp de Sala de reunión 2}
+    \label{fig: sketchup sala 2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=8cm]{Imagenes/Modelacion/Sala ensayo Sketchup.jpg}
+    \caption{Modelo en SketchUp de Sala de ensayo}
+    \label{fig: sketchup sala de ensayo}
+\end{figure}
+
+\subsection{Modelación en EASE}
+A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{ease}, verificando las superficies y que estos estén bien cerrados para un correcto uso en en el programa. Para calibrar los modelos, se identificó los materiales de cada sala, para poder asignar los coeficientes de absorción a cada superficie correspondientemente. En la tabla \ref{tab:materiales-ease} se pueden observar los materiales que se le asignaran a las distintas superficies y su respectivo coeficiente de absorción, además de la fuente de donde se extrajeron estos datos. Las superficies cuyo material es desconocido, fueron despejadas desde la ecuación \ref{eq:T60}.
+
+%tabla con coeficientes y fuente bibliografica.
+
+
+\begin{table}[H]
+\centering
+    \begin{tabular}{|c|cccccc|c|}
+    \hline
+    \multirow{2}{*}{Material} & \multicolumn{6}{c|}{Frecuencia (Hz)}                                                                          & \multirow{2}{*}{Fuente} \\ \cline{2-7} 
+            & \multicolumn{1}{c|}{$125$} & \multicolumn{1}{c|}{$250$} & \multicolumn{1}{c|}{$500$} & \multicolumn{1}{c|}{$1000$} & \multicolumn{1}{c|}{$2000$} & $4000$ & \\ \hline
+    Parquet & \multicolumn{1}{c|}{$0.04$} & \multicolumn{1}{c|}{$0.04$} & \multicolumn{1}{c|}{$0.07$} & \multicolumn{1}{c|}{$0.06$} & \multicolumn{1}{c|}{$0.06$} &  $0.07$ & \cite{Recuero}\\ \hline
+    Madera  & \multicolumn{1}{c|}{$0.25$} & \multicolumn{1}{c|}{$0.34$} & \multicolumn{1}{c|}{$0.18$} & \multicolumn{1}{c|}{$0.10$} & \multicolumn{1}{c|}{$0.10$} &  $0.06$ & \cite{Recuero}\\  \hline
+    Black Acoustic Board (2") & \multicolumn{1}{c|}{$0.13$} & \multicolumn{1}{c|}{$0.75$} & \multicolumn{1}{c|}{$1.17$} & \multicolumn{1}{c|}{$1.14$} & \multicolumn{1}{c|}{$1.05$} & $1.09$ & \cite{blackboard}\\ \hline
+    Vidrio  & \multicolumn{1}{c|}{$0.05$} & \multicolumn{1}{c|}{$0.5$} & \multicolumn{1}{c|}{$0.03$} & \multicolumn{1}{c|}{$0.03$} & \multicolumn{1}{c|}{$0.02$} & $0.02$ & \cite{Recuero}\\ \hline
+    \end{tabular}
+    \caption{Materiales utilizados para modelo en EASE.}
+    \label{tab:materiales-ease}
+\end{table}

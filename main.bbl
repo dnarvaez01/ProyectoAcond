@@ -1,0 +1,281 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{AFMG Technologies GmbH}%
+}{%
+{AFMG Technologies GmbH}%
+}{%
+{\protect \APACyear {Versión 4.3}}%
+}]{%
+ease}
+\APACinsertmetastar {%
+ease}%
+\begin{APACrefauthors}%
+{AFMG Technologies GmbH}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{Versión 4.3}{}{}.
+\newblock
+\APACrefbtitle {{EASE}.} {{EASE}.}
+\newblock
+\APACrefnote{Disponible en: \url{https://www.afmg.eu/index.php/products/ease/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Asociación Española de Normalización}%
+}{%
+{Asociación Española de Normalización}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+ISO3382-2}
+\APACinsertmetastar {%
+ISO3382-2}%
+\begin{APACrefauthors}%
+{Asociación Española de Normalización}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{UNE-ISO $3382-2$}: Acústica. Medición de los parámetros de
+  las salas. Parte 2: Parámetros relacionados con el tiempo.} {{UNE-ISO
+  $3382-2$}: Acústica. medición de los parámetros de las salas. parte 2:
+  Parámetros relacionados con el tiempo.}
+\newblock
+\APACrefnote{Disponible en:
+  \url{https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0069999}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Carrion~Isbert%
+}{%
+Carrion~Isbert%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+carrion1990diseno}
+\APACinsertmetastar {%
+carrion1990diseno}%
+\begin{APACrefauthors}%
+Carrion~Isbert, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Diseño acústico de espacios arquitectónicos} {Diseño
+  acústico de espacios arquitectónicos}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Informes de la Construcción}{42}{408}{61--66}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Decreto Supremo Nº 38}%
+}{%
+{Decreto Supremo Nº 38}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+ds:ds38}
+\APACinsertmetastar {%
+ds:ds38}%
+\begin{APACrefauthors}%
+{Decreto Supremo Nº 38}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {{[Ministerio del medio ambiente]}.} {{[Ministerio del medio
+  ambiente]}.}
+\newblock
+\APACrefnote{Establece norma de emisión de ruidos generados por fuentes que
+  indica, elaborada a partir de la revisión del decreto Nº 146, de 1997, del
+  ministerio secretaría general de la presidencia. 11 de noviembre de 2011}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Dirección de Vinculación con el Medio}%
+}{%
+{Dirección de Vinculación con el Medio}%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+loscanelos}
+\APACinsertmetastar {%
+loscanelos}%
+\begin{APACrefauthors}%
+{Dirección de Vinculación con el Medio}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {{Centro de Extensión Los Canelos}.} {{Centro de Extensión Los
+  Canelos}.}
+\newblock
+\APACrefnote{Disponible en:
+  \url{http://vinculacion.uach.cl/index.php/organizacion/quienes-somos/canelos}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Energy%
+}{%
+Energy%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+blackboard}
+\APACinsertmetastar {%
+blackboard}%
+\begin{APACrefauthors}%
+Energy, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Black Acoustic Board.} {Black acoustic board.}
+\newblock
+\APACrefnote{\url{https://www.safe-energy.cl/product/black-acoustic-board/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+ISO $9921$}{%
+ISO $9921$}{%
+{\protect \APACyear {2003}}%
+}]{%
+ISO9921}
+\APACinsertmetastar {%
+ISO9921}%
+\APACrefbtitle {ISO $9921:2003$, Ergonomics — Assessment of speech
+  communication} {Iso $9921:2003$, ergonomics — assessment of speech
+  communication}\ \APACbVolEdTR {}{Standard}.
+\newblock
+\APACrefYearMonthDay{2003}{06}{}.
+\newblock
+\APACaddressInstitution{Geneva, CH}{International Organization for
+  Standardization}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuttruff%
+}{%
+Kuttruff%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Kuttruff_2017}
+\APACinsertmetastar {%
+Kuttruff_2017}%
+\begin{APACrefauthors}%
+Kuttruff, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Room acoustics} {Room acoustics}\ (\PrintOrdinal{Sixth}\ \BEd).
+\newblock
+\APACaddressPublisher{}{CRC Press, Taylor \& amp; Francis Group}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marshall%
+}{%
+Marshall%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+marshall1994}
+\APACinsertmetastar {%
+marshall1994}%
+\begin{APACrefauthors}%
+Marshall, L\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An acoustics measurement program for evaluating
+  auditoriums based on the early/late sound energy ratio} {An acoustics
+  measurement program for evaluating auditoriums based on the early/late sound
+  energy ratio}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of the Acoustical Society of
+  America}{96}{4}{2251--2261}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.410097} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Recuero~López%
+}{%
+Recuero~López%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Recuero}
+\APACinsertmetastar {%
+Recuero}%
+\begin{APACrefauthors}%
+Recuero~López, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Ingeniería Acústica} {Ingeniería acústica}\
+  (\PrintOrdinal{1st}\ \BEd).
+\newblock
+\APACaddressPublisher{Madrid, España}{Editorial Paraninfo}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sabine%
+}{%
+Sabine%
+}{%
+{\protect \APACyear {1922}}%
+}]{%
+sabine1922collected}
+\APACinsertmetastar {%
+sabine1922collected}%
+\begin{APACrefauthors}%
+Sabine, W\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1922}.
+\newblock
+\APACrefbtitle {Collected papers on acoustics} {Collected papers on acoustics}\
+  (\PrintOrdinal{2nd}\ \BEd).
+\newblock
+\APACaddressPublisher{Cambridge, MA}{Harvard University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Trimble Inc.}%
+}{%
+{Trimble Inc.}%
+}{%
+{\protect \APACyear {versión 2020}}%
+}]{%
+sketchup}
+\APACinsertmetastar {%
+sketchup}%
+\begin{APACrefauthors}%
+{Trimble Inc.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{versión 2020}{}{}.
+\newblock
+\APACrefbtitle {{SketchUp}.} {{SketchUp}.}
+\newblock
+\APACrefnote{Disponible en: \url{https://www.sketchup.com/}}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

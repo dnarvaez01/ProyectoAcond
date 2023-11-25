@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Contenido/1.Introduccion.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Contenido/3.Antecedentes.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Contenido/4.Planificacion.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Contenido/5.Metodologia.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Contenido/6.Modelación.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: Contenido/7.Recomendaciones.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: Contenido/8.Resultados.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Contenido/Conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Contenido/Anexo.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: referencias.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 12 entries,
+            6951 wiz_defined-function locations,
+            1355 strings with 12755 characters,
+and the built_in function-call counts, 17102 in all, are:
+= -- 2084
+> -- 110
+< -- 751
++ -- 666
+- -- 32
+* -- 1015
+:= -- 3159
+add.period$ -- 48
+call.type$ -- 12
+change.case$ -- 210
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 389
+empty$ -- 816
+format.name$ -- 154
+if$ -- 3379
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 0
+newline$ -- 262
+num.names$ -- 88
+pop$ -- 587
+preamble$ -- 1
+purify$ -- 54
+quote$ -- 0
+skip$ -- 989
+stack$ -- 0
+substring$ -- 722
+swap$ -- 236
+text.length$ -- 36
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 890
+warning$ -- 0
+while$ -- 64
+width$ -- 0
+write$ -- 287
