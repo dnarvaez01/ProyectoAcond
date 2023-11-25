@@ -20,13 +20,13 @@
 \contentsline {subsection}{\numberline {8.2}Tiempo de reverberación}{16}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Salas de reunión}{16}{subsubsection.8.2.1}%
 \contentsline {subsubsection}{\numberline {8.2.2}Sala de ensayo}{17}{subsubsection.8.2.2}%
-\contentsline {section}{\numberline {9}Conclusiones parciales}{18}{section.9}%
-\contentsline {section}{Referencias}{19}{section*.29}%
-\contentsline {section}{\numberline {10}Anexo}{20}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Presupuesto}{20}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Marco teórico}{20}{subsection.10.2}%
-\contentsline {subsubsection}{\numberline {10.2.1}Ruido de fondo (RdF)}{20}{subsubsection.10.2.1}%
-\contentsline {subsubsection}{\numberline {10.2.2}Tiempo de reverberación (TR)}{22}{subsubsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.3}Posiciones de mediciones de Tiempo de reverberación}{24}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Mediciones de tiempo de reverberación}{26}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Resultados curvas NR}{28}{subsection.10.5}%
+\contentsline {section}{\numberline {9}Conclusiones parciales}{19}{section.9}%
+\contentsline {section}{Referencias}{20}{section*.30}%
+\contentsline {section}{\numberline {10}Anexo}{21}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Presupuesto}{21}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Marco teórico}{21}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}Ruido de fondo (RdF)}{21}{subsubsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.2}Tiempo de reverberación (TR)}{23}{subsubsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.3}Posiciones de mediciones de Tiempo de reverberación}{25}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Mediciones de tiempo de reverberación}{27}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Resultados curvas NR}{29}{subsection.10.5}%
