@@ -97,14 +97,16 @@ INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xifthen\xifthen.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xifthen\xifthen.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\dcolumn.sty
@@ -352,6 +354,18 @@ INPUT Contenido\7.Recomendaciones.aux
 INPUT .\Contenido\8.ResultadosActual.aux
 INPUT .\Contenido\8.ResultadosActual.aux
 INPUT Contenido\8.ResultadosActual.aux
+INPUT .\Contenido\9.Propuesta.aux
+INPUT .\Contenido\9.Propuesta.aux
+INPUT Contenido\9.Propuesta.aux
+INPUT .\Contenido\10.ResultadosAcond.aux
+INPUT .\Contenido\10.ResultadosAcond.aux
+INPUT Contenido\10.ResultadosAcond.aux
+INPUT .\Contenido\11.Presupuesto.aux
+INPUT .\Contenido\11.Presupuesto.aux
+INPUT Contenido\11.Presupuesto.aux
+INPUT .\Contenido\12.MedicionTubo.aux
+INPUT .\Contenido\12.MedicionTubo.aux
+INPUT Contenido\12.MedicionTubo.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT Contenido\Conclusion.aux
@@ -462,11 +476,11 @@ INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cfr-lm\clmbx2j8t12.tfm
-OUTPUT main.toc
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\cfr-lm\clmbx2j8t12.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cfr-lm\lmbx8ttl12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cfr-lm\dd-lmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\cfr-lm\dotdigits-clm.enc
+OUTPUT main.toc
 INPUT .\Contenido\1.Introduccion.tex
 OUTPUT Contenido\1.Introduccion.aux
 INPUT .\Contenido\1.Introduccion.tex
@@ -639,6 +653,58 @@ INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
+INPUT .\Contenido\9.Propuesta.tex
+OUTPUT Contenido\9.Propuesta.aux
+INPUT .\Contenido\9.Propuesta.tex
+INPUT .\Contenido\9.Propuesta.tex
+INPUT .\Contenido\9.Propuesta.tex
+INPUT Contenido\9.Propuesta.tex
+INPUT .\Contenido\10.ResultadosAcond.tex
+OUTPUT Contenido\10.ResultadosAcond.aux
+INPUT .\Contenido\10.ResultadosAcond.tex
+INPUT .\Contenido\10.ResultadosAcond.tex
+INPUT .\Contenido\10.ResultadosAcond.tex
+INPUT Contenido\10.ResultadosAcond.tex
+INPUT .\Contenido\11.Presupuesto.tex
+OUTPUT Contenido\11.Presupuesto.aux
+INPUT .\Contenido\11.Presupuesto.tex
+INPUT .\Contenido\11.Presupuesto.tex
+INPUT .\Contenido\11.Presupuesto.tex
+INPUT Contenido\11.Presupuesto.tex
+INPUT .\Contenido\12.MedicionTubo.tex
+OUTPUT Contenido\12.MedicionTubo.aux
+INPUT .\Contenido\12.MedicionTubo.tex
+INPUT .\Contenido\12.MedicionTubo.tex
+INPUT .\Contenido\12.MedicionTubo.tex
+INPUT Contenido\12.MedicionTubo.tex
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\materiales.jpeg
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\MATERIAL.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaMineral.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
+INPUT .\Imagenes\Medición abs\Grafico coef.abs LanaVidrio.png
 INPUT .\Contenido\Conclusion.tex
 INPUT .\Contenido\Conclusion.tex
 OUTPUT Contenido\Conclusion.aux
@@ -775,6 +841,18 @@ INPUT Contenido\7.Recomendaciones.aux
 INPUT .\Contenido\8.ResultadosActual.aux
 INPUT .\Contenido\8.ResultadosActual.aux
 INPUT Contenido\8.ResultadosActual.aux
+INPUT .\Contenido\9.Propuesta.aux
+INPUT .\Contenido\9.Propuesta.aux
+INPUT Contenido\9.Propuesta.aux
+INPUT .\Contenido\10.ResultadosAcond.aux
+INPUT .\Contenido\10.ResultadosAcond.aux
+INPUT Contenido\10.ResultadosAcond.aux
+INPUT .\Contenido\11.Presupuesto.aux
+INPUT .\Contenido\11.Presupuesto.aux
+INPUT Contenido\11.Presupuesto.aux
+INPUT .\Contenido\12.MedicionTubo.aux
+INPUT .\Contenido\12.MedicionTubo.aux
+INPUT Contenido\12.MedicionTubo.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT .\Contenido\Conclusion.aux
 INPUT Contenido\Conclusion.aux

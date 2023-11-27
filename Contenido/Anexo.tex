@@ -182,7 +182,7 @@ El tiempo de reverberación $T_{60}$ es el tiempo que tarda el sonido en decaer 
 \subsubsection{Medición de coeficiente de absorción en tubo de impedancia}
 Un método utilizado para determinar el coeficiente de absorción acústica de un material es a través del empleo de un tubo de impedancia, también conocido como tubo de Kundt. Este dispositivo consta de un tubo equipado con dos micrófonos dispuestos a lo largo de su longitud, junto con un altavoz ubicado en uno de sus extremos. En el extremo opuesto se sitúa el material cuya capacidad de absorción acústica se pretende medir.
 A partir de la relación de la señal recibida por cada uno de los micrófonos el software ... entrega el coeficiente de reflexión ... el cual se utiliza en la ecuación... para calcular el coeficiente de absorción.
-\begin{equation}
+\begin{equation} \label{eq: alpha}
     \alpha = 1 - |r|^2 = 1 - r_{r}^2 - r_{i}^2
 \end{equation}
 donde,\\
@@ -203,7 +203,7 @@ por intervalos de $0.05$ hacia el valor calculado hasta que la suma de las desvi
 sea menor o igual que $0.10$, esto ocurre cuando el valor medido es menor que el valor de la curva de
 referencia.
 
-\subsection{Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}
+\subsection{Posiciones de micrófono y fuente en mediciones de tiempo de reverberación} \label{subsec: posiciones RT}
 A continuación se pueden observar la distribución de las posiciones de fuente y micrófono para las mediciones de tiempo de reverberación.
 \begin{figure}[H]
     \centering

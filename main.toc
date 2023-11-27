@@ -1,33 +1,38 @@
-\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
-\contentsline {section}{\numberline {2}Objetivos}{3}{section.2}%
-\contentsline {section}{\numberline {3}Antecedentes del recinto}{4}{section.3}%
-\contentsline {section}{\numberline {4}Planificación}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Plan de trabajo}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Cronograma}{8}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Metodología}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Medición de dimensiones del recinto}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Medición de parámetros acústicos del recinto}{9}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Ruido de fondo}{10}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Tiempo de reverberación}{10}{subsubsection.5.2.2}%
-\contentsline {section}{\numberline {6}Modelación}{12}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Modelación en SketchUp}{12}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Modelación en EASE}{13}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Recomendaciones de parámetros acústicos}{14}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Salas de reuniones}{14}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Sala de ensayo}{14}{subsection.7.2}%
-\contentsline {section}{\numberline {8}Resultados del estado actual de los recintos}{15}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Ruido de fondo}{15}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Tiempo de reverberación}{16}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Salas de reunión}{16}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Sala de ensayo}{18}{subsubsection.8.2.2}%
-\contentsline {section}{\numberline {9}Conclusiones parciales}{19}{section.9}%
-\contentsline {section}{Referencias}{20}{section*.30}%
-\contentsline {section}{\numberline {10}Anexo}{21}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Presupuesto}{21}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Marco teórico}{21}{subsection.10.2}%
-\contentsline {subsubsection}{\numberline {10.2.1}Ruido de fondo (RdF)}{21}{subsubsection.10.2.1}%
-\contentsline {subsubsection}{\numberline {10.2.2}Tiempo de reverberación (TR)}{23}{subsubsection.10.2.2}%
-\contentsline {subsubsection}{\numberline {10.2.3}Medición de coeficiente de absorción en tubo de impedancia}{25}{subsubsection.10.2.3}%
-\contentsline {subsection}{\numberline {10.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{26}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Mediciones de tiempo de reverberación}{27}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Resultados curvas NR}{29}{subsection.10.5}%
+\contentsline {section}{\numberline {1}Introducción}{4}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{4}{section.2}%
+\contentsline {section}{\numberline {3}Antecedentes del recinto}{5}{section.3}%
+\contentsline {section}{\numberline {4}Planificación}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Plan de trabajo}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Cronograma}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Metodología}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Medición de dimensiones del recinto}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Medición de parámetros acústicos del recinto}{10}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Ruido de fondo}{11}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Tiempo de reverberación}{11}{subsubsection.5.2.2}%
+\contentsline {section}{\numberline {6}Modelación}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Modelación en SketchUp}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Modelación en EASE}{14}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Recomendaciones de parámetros acústicos}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Salas de reuniones}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Sala de ensayo}{15}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Resultados del estado actual de los recintos}{16}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Ruido de fondo}{16}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Tiempo de reverberación}{17}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Salas de reunión}{17}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Sala de ensayo}{19}{subsubsection.8.2.2}%
+\contentsline {section}{\numberline {9}Propuesta}{20}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Salas de reunión}{20}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Nube}{20}{subsubsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.2}Sala de ensayo}{20}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Medición de coeficiente de absorción de materiales}{21}{section.10}%
+\contentsline {section}{\numberline {11}Conclusiones parciales}{23}{section.11}%
+\contentsline {section}{Referencias}{24}{section*.35}%
+\contentsline {section}{\numberline {12}Anexo}{25}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Presupuesto}{25}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Marco teórico}{25}{subsection.12.2}%
+\contentsline {subsubsection}{\numberline {12.2.1}Ruido de fondo (RdF)}{25}{subsubsection.12.2.1}%
+\contentsline {subsubsection}{\numberline {12.2.2}Tiempo de reverberación (TR)}{27}{subsubsection.12.2.2}%
+\contentsline {subsubsection}{\numberline {12.2.3}Medición de coeficiente de absorción en tubo de impedancia}{29}{subsubsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{30}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Mediciones de tiempo de reverberación}{31}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Resultados curvas NR}{33}{subsection.12.5}%
