@@ -179,8 +179,31 @@ El tiempo de reverberación $T_{60}$ es el tiempo que tarda el sonido en decaer 
 \end{table}
 \end{itemize}
 
+\subsubsection{Medición de coeficiente de absorción en tubo de impedancia}
+Un método utilizado para determinar el coeficiente de absorción acústica de un material es a través del empleo de un tubo de impedancia, también conocido como tubo de Kundt. Este dispositivo consta de un tubo equipado con dos micrófonos dispuestos a lo largo de su longitud, junto con un altavoz ubicado en uno de sus extremos. En el extremo opuesto se sitúa el material cuya capacidad de absorción acústica se pretende medir.
+A partir de la relación de la señal recibida por cada uno de los micrófonos el software ... entrega el coeficiente de reflexión ... el cual se utiliza en la ecuación... para calcular el coeficiente de absorción.
+\begin{equation}
+    \alpha = 1 - |r|^2 = 1 - r_{r}^2 - r_{i}^2
+\end{equation}
+donde,\\
+$r$ es el factor de reflexión.\\
+$r_{r}$ es el componente real del factor de reflexión.\\
+$r_{i}$ es el componente imaginario del factor de reflexión.\\
+Posteriormente a la obtención de los datos se realiza el cálculo de los valores de coeficientes de
+absorción ponderado, para esto fue necesario transformar los datos obtenidos anteriormente a tercios
+de octava y así calcular el coeficiente de absorción sonora práctico ($\alpha_{pi}$), que se define como el valor
+del coeficiente de absorción acústica dependiente de la frecuencia, basado en mediciones por bandas
+de un tercio de octava, que se obtiene mediante la siguiente fórmula:
+\begin{equation}
+    \alpha_{pi} = \frac{\alpha_{i1} + \alpha_{i2} + \alpha_{i3}}{3}
+\end{equation}
+Ahora con los coeficiente de absorción práctico, se obtienen los valores de coeficiente de absorción
+ponderado $\alpha_{\omega}$, utilizando la curva de referencia de la figura ... Se irá ajustando la curva de referencia
+por intervalos de $0.05$ hacia el valor calculado hasta que la suma de las desviaciones desfavorables
+sea menor o igual que $0.10$, esto ocurre cuando el valor medido es menor que el valor de la curva de
+referencia.
 
-\subsection{Posiciones de mediciones de Tiempo de reverberación}\label{subsec: posiciones RT}
+\subsection{Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}
 A continuación se pueden observar la distribución de las posiciones de fuente y micrófono para las mediciones de tiempo de reverberación.
 \begin{figure}[H]
     \centering
