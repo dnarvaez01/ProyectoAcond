@@ -34,5 +34,5 @@
 \contentsline {subsubsection}{\numberline {12.2.2}Tiempo de reverberación (TR)}{27}{subsubsection.12.2.2}%
 \contentsline {subsubsection}{\numberline {12.2.3}Medición de coeficiente de absorción en tubo de impedancia}{29}{subsubsection.12.2.3}%
 \contentsline {subsection}{\numberline {12.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{30}{subsection.12.3}%
-\contentsline {subsection}{\numberline {12.4}Mediciones de tiempo de reverberación}{31}{subsection.12.4}%
-\contentsline {subsection}{\numberline {12.5}Resultados curvas NR}{33}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.4}Mediciones de tiempo de reverberación}{32}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Resultados curvas NR}{34}{subsection.12.5}%
