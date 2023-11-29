@@ -667,12 +667,40 @@ INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
 INPUT .\Imagenes\Resultados\D50_ensayo.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\densidad modal.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
+INPUT .\Imagenes\Modos\modo_48hz.png
 INPUT .\Contenido\9.Propuesta.tex
 OUTPUT Contenido\9.Propuesta.aux
 INPUT .\Contenido\9.Propuesta.tex
 INPUT .\Contenido\9.Propuesta.tex
 INPUT .\Contenido\9.Propuesta.tex
 INPUT Contenido\9.Propuesta.tex
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion1.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
+INPUT .\Imagenes\Propuesta\propuesta_reunion2.jpg
 INPUT .\Contenido\10.ResultadosAcond.tex
 OUTPUT Contenido\10.ResultadosAcond.aux
 INPUT .\Contenido\10.ResultadosAcond.tex

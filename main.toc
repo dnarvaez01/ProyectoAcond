@@ -21,21 +21,21 @@
 \contentsline {subsubsection}{\numberline {8.2.1}Salas de reunión}{18}{subsubsection.8.2.1}%
 \contentsline {subsubsection}{\numberline {8.2.2}Sala de ensayo}{20}{subsubsection.8.2.2}%
 \contentsline {subsection}{\numberline {8.3}Análisis modal}{20}{subsection.8.3}%
-\contentsline {section}{\numberline {9}Propuesta}{21}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Salas de reunión}{21}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Sala de ensayo}{21}{subsection.9.2}%
-\contentsline {section}{\numberline {10}Resultados de recintos acondicionados}{22}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Salas de reunión}{22}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Sala de ensayo}{22}{subsection.10.2}%
-\contentsline {section}{\numberline {11}Medición de coeficiente de absorción de materiales}{23}{section.11}%
-\contentsline {section}{\numberline {12}Conclusiones}{25}{section.12}%
-\contentsline {section}{Referencias}{26}{section*.38}%
-\contentsline {section}{\numberline {13}Anexo}{27}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Presupuesto}{27}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2}Marco teórico}{27}{subsection.13.2}%
-\contentsline {subsubsection}{\numberline {13.2.1}Ruido de fondo (RdF)}{27}{subsubsection.13.2.1}%
-\contentsline {subsubsection}{\numberline {13.2.2}Tiempo de reverberación (TR)}{29}{subsubsection.13.2.2}%
-\contentsline {subsubsection}{\numberline {13.2.3}Medición de coeficiente de absorción en tubo de impedancia}{31}{subsubsection.13.2.3}%
-\contentsline {subsection}{\numberline {13.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{33}{subsection.13.3}%
-\contentsline {subsection}{\numberline {13.4}Mediciones de tiempo de reverberación}{34}{subsection.13.4}%
-\contentsline {subsection}{\numberline {13.5}Resultados curvas NR}{36}{subsection.13.5}%
+\contentsline {section}{\numberline {9}Propuesta}{22}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Salas de reunión}{22}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Sala de ensayo}{23}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Resultados de recintos acondicionados}{24}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Salas de reunión}{24}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Sala de ensayo}{24}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Medición de coeficiente de absorción de materiales}{25}{section.11}%
+\contentsline {section}{\numberline {12}Conclusiones}{27}{section.12}%
+\contentsline {section}{Referencias}{28}{section*.43}%
+\contentsline {section}{\numberline {13}Anexo}{29}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Presupuesto}{29}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Marco teórico}{29}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Ruido de fondo (RdF)}{29}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Tiempo de reverberación (TR)}{31}{subsubsection.13.2.2}%
+\contentsline {subsubsection}{\numberline {13.2.3}Medición de coeficiente de absorción en tubo de impedancia}{33}{subsubsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{35}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Mediciones de tiempo de reverberación}{36}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Resultados curvas NR}{38}{subsection.13.5}%
