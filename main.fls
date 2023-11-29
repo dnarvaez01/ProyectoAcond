@@ -660,13 +660,13 @@ INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 actual.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
-INPUT .\Imagenes\Resultados\D50_ensayo.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
+INPUT .\Imagenes\Resultados\D50_actual.png
 INPUT .\Imagenes\Modos\densidad modal.png
 INPUT .\Imagenes\Modos\densidad modal.png
 INPUT .\Imagenes\Modos\densidad modal.png
@@ -865,27 +865,6 @@ INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 1.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR reunion 2.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
-INPUT .\Imagenes\Resultados\Curvas NC-NR\NR ensayo.png
 INPUT main.aux
 INPUT .\Portada.aux
 INPUT .\Portada.aux

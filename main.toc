@@ -38,4 +38,3 @@
 \contentsline {subsubsection}{\numberline {13.2.3}Medición de coeficiente de absorción en tubo de impedancia}{34}{subsubsection.13.2.3}%
 \contentsline {subsection}{\numberline {13.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{36}{subsection.13.3}%
 \contentsline {subsection}{\numberline {13.4}Mediciones de tiempo de reverberación}{37}{subsection.13.4}%
-\contentsline {subsection}{\numberline {13.5}Resultados curvas NR}{39}{subsection.13.5}%
