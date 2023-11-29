@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 13:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 13:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,18 +886,18 @@ Package pdftex.def Info: Imagenes/Antecedentes/Geolocalización.png  used on inp
 <Imagenes/Antecedentes/Sala 1.jpg, id=276, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala 1.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala 1.jpg>
-Package pdftex.def Info: Imagenes/Antecedentes/Sala 1.jpg  used on input line 26.
+Package pdftex.def Info: Imagenes/Antecedentes/Sala 1.jpg  used on input line 25.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
 <Imagenes/Antecedentes/Sala 2.jpg, id=277, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala 2.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala 2.jpg>
-Package pdftex.def Info: Imagenes/Antecedentes/Sala 2.jpg  used on input line 33.
+Package pdftex.def Info: Imagenes/Antecedentes/Sala 2.jpg  used on input line 32.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
  [6 <./Imagenes/Antecedentes/Geolocalización.png> <./Imagenes/Antecedentes/Sala 1.jpg>]
 <Imagenes/Antecedentes/Sala OCV.jpg, id=286, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala OCV.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala OCV.jpg>
-Package pdftex.def Info: Imagenes/Antecedentes/Sala OCV.jpg  used on input line 40.
+Package pdftex.def Info: Imagenes/Antecedentes/Sala OCV.jpg  used on input line 39.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
 ) [7 <./Imagenes/Antecedentes/Sala 2.jpg> <./Imagenes/Antecedentes/Sala OCV.jpg>]
 \openout2 = `Contenido/4.Planificacion.aux'.
@@ -1075,7 +1075,12 @@ Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png 
 ) [23 <./Imagenes/Medición abs/Grafico coef.abs LanaMineral.png> <./Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>]
 \openout2 = `Contenido/Conclusion.aux'.
 
- (Contenido/Conclusion.tex) [24
+ (Contenido/Conclusion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--61
+
+ []
+
+[24
 
 
 
@@ -1164,4 +1169,41 @@ File: Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png  used on input line 267.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
- [34 <./Imagenes/Resultados/T60_Sala_r
+ [34 <./Imagenes/Resultados/T60_Sala_reunion_1.png> <./Imagenes/Resultados/T60_Sala_reunion_2.png> <./Imagenes/Resultados/T60_Sala_de_ensayo.png>]
+<Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png, id=610, 613.48196pt x 420.15971pt>
+File: Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png Graphic file (type png)
+<use Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png>
+Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png  used on input line 274.
+(pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
+<Imagenes/Resultados/Curvas NC-NR/NR ensayo.png, id=611, 613.48196pt x 420.15971pt>
+File: Imagenes/Resultados/Curvas NC-NR/NR ensayo.png Graphic file (type png)
+<use Imagenes/Resultados/Curvas NC-NR/NR ensayo.png>
+Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR ensayo.png  used on input line 281.
+(pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
+) [35 <./Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png> <./Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png>] [36 <./Imagenes/Resultados/Curvas NC-NR/NR ensayo.png>] (main.aux (Portada.aux) (Contenido/1.Introduccion.aux) (Contenido/3.Antecedentes.aux) (Contenido/4.Planificacion.aux) (Contenido/5.Metodologia.aux) (Contenido/6.Modelación.aux) (Contenido/7.Recomendaciones.aux) (Contenido/8.ResultadosActual.aux) (Contenido/9.Propuesta.aux) (Contenido/10.ResultadosAcond.aux) (Contenido/11.Presupuesto.aux) (Contenido/12.MedicionTubo.aux) (Contenido/Conclusion.aux) (Contenido/Anexo.aux))
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 1FFE1036D7681C1DB13065256F30793C;7223.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 20 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 35795 strings out of 474586
+ 824415 string characters out of 5755495
+ 1948558 words of memory out of 5000000
+ 57102 multiletter control sequences out of 15000+600000
+ 625553 words of font info for 86 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,18n,85p,1026b,20619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb>
+Output written on main.pdf (36 pages, 16115791 bytes).
+PDF statistics:
+ 729 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 500000)
+ 534 words of extra memory for PDF output out of 10000 (max. 10000000)
+
