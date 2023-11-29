@@ -721,6 +721,13 @@ INPUT .\Imagenes\DIN\DIN sala reunion 2 comparacion.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 comparacion.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 comparacion.png
 INPUT .\Imagenes\DIN\DIN sala reunion 2 comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
+INPUT .\Imagenes\Resultados\D50_comparacion.png
 INPUT .\Contenido\11.Presupuesto.tex
 OUTPUT Contenido\11.Presupuesto.aux
 INPUT .\Contenido\11.Presupuesto.tex
@@ -865,6 +872,59 @@ INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
 INPUT .\Imagenes\Resultados\T60_Sala_de_ensayo.png
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion1_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STI_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI actual\STIdist_Reunion2_SinAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STI_Reunion2_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
+INPUT .\Imagenes\STI acondicionado\STIdist_Reunion1_ConAcond.jpg
 INPUT main.aux
 INPUT .\Portada.aux
 INPUT .\Portada.aux
