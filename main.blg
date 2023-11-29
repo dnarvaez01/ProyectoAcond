@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Contenido/1.Introduccion.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Contenido/3.Antecedentes.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Contenido/4.Planificacion.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Contenido/5.Metodologia.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Contenido/6.Modelación.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: Contenido/7.Recomendaciones.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: Contenido/8.ResultadosActual.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Contenido/9.Propuesta.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: Contenido/10.ResultadosAcond.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Contenido/11.Presupuesto.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Contenido/12.MedicionTubo.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Contenido/Conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Contenido/Anexo.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: referencias.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 17 entries,
+            6951 wiz_defined-function locations,
+            1389 strings with 13653 characters,
+and the built_in function-call counts, 26800 in all, are:
+= -- 3180
+> -- 162
+< -- 1394
++ -- 1263
+- -- 40
+* -- 1714
+:= -- 5388
+add.period$ -- 69
+call.type$ -- 17
+change.case$ -- 307
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 568
+empty$ -- 1162
+format.name$ -- 224
+if$ -- 5038
+int.to.chr$ -- 0
+int.to.str$ -- 51
+missing$ -- 0
+newline$ -- 363
+num.names$ -- 112
+pop$ -- 788
+preamble$ -- 1
+purify$ -- 86
+quote$ -- 0
+skip$ -- 1405
+stack$ -- 0
+substring$ -- 1364
+swap$ -- 328
+text.length$ -- 71
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1150
+warning$ -- 0
+while$ -- 107
+width$ -- 0
+write$ -- 413

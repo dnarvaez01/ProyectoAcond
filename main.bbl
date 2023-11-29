@@ -74,6 +74,25 @@ ISO3382-2}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+ISO $10534-2$}{%
+ISO $10534-2$}{%
+{\protect \APACyear {2001}}%
+}]{%
+ISO10534-2}
+\APACinsertmetastar {%
+ISO10534-2}%
+\APACrefbtitle {BS EN ISO $10534-2:2001$, Acoustics — Determination of sound
+  absorption coefficient and impedance in impedance tubes - Part $2$:
+  Transfer-function method} {Bs en iso $10534-2:2001$, acoustics —
+  determination of sound absorption coefficient and impedance in impedance
+  tubes - part $2$: Transfer-function method}\ \APACbVolEdTR {}{Standard}.
+\newblock
+\APACrefYearMonthDay{2001}{06}{}.
+\newblock
+\APACaddressInstitution{Brussels}{European Committee for Standardization}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Carrion~Isbert%
 }{%
 Carrion~Isbert%
@@ -350,6 +369,25 @@ sketchup}%
 \APACrefbtitle {{SketchUp}.} {{SketchUp}.}
 \newblock
 \APACrefnote{Disponible en: \url{https://www.sketchup.com/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+ISO $11654$}{%
+ISO $11654$}{%
+{\protect \APACyear {1998}}%
+}]{%
+ISO11654}
+\APACinsertmetastar {%
+ISO11654}%
+\APACrefbtitle {UNE EN ISO $11654:1997$, Acústica — Absorbentes acústicos
+  para su utilización en edificios - Evaluación de la absorción acústica}
+  {Une en iso $11654:1997$, acústica — absorbentes acústicos para su
+  utilización en edificios - evaluación de la absorción acústica}\
+  \APACbVolEdTR {}{Standard}.
+\newblock
+\APACrefYearMonthDay{1998}{02}{}.
+\newblock
+\APACaddressInstitution{Madrid, España}{AENOR}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
