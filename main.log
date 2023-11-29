@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -689,7 +689,7 @@ File: t1clm2j.fd 2010/05/25 Fontinst v1.933 font definitions for T1/clm2j.
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count343
 \l__pdf_internal_box=\box73
-) (main.aux (Portada.aux) (Contenido/1.Introduccion.aux) (Contenido/3.Antecedentes.aux) (Contenido/4.Planificacion.aux) (Contenido/5.Metodologia.aux) (Contenido/6.Modelación.aux) (Contenido/7.Recomendaciones.aux) (Contenido/8.ResultadosActual.aux) (Contenido/9.Propuesta.aux) (Contenido/10.ResultadosAcond.aux) (Contenido/11.Presupuesto.aux) (Contenido/12.MedicionTubo.aux) (Contenido/Conclusion.aux) (Contenido/Anexo.aux))
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/lmm/m/it on input line 44.
@@ -746,7 +746,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 44.
- (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -809,7 +808,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \openout2 = `Portada.aux'.
 
 (Portada.tex
-<Imagenes/acustica-color.png, id=178, 8222.72pt x 6815.4625pt>
+<Imagenes/acustica-color.png, id=6, 8222.72pt x 6815.4625pt>
 File: Imagenes/acustica-color.png Graphic file (type png)
 <use Imagenes/acustica-color.png>
 Package pdftex.def Info: Imagenes/acustica-color.png  used on input line 4.
@@ -820,7 +819,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 6.
-<Imagenes/UACh_Marcacolor.png, id=180, 1241.63875pt x 578.16pt>
+<Imagenes/UACh_Marcacolor.png, id=8, 1241.63875pt x 578.16pt>
 File: Imagenes/UACh_Marcacolor.png Graphic file (type png)
 <use Imagenes/UACh_Marcacolor.png>
 Package pdftex.def Info: Imagenes/UACh_Marcacolor.png  used on input line 8.
@@ -845,157 +844,258 @@ LaTeX Font Info:    Font shape `T1/clm2j/b/n' in size <20.74> not available
 ) [1
 
 
-{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./Imagenes/acustica-color.png> <./Imagenes/UACh_Marcacolor.png>] (main.toc
-LaTeX Font Info:    Font shape `T1/clm2j/b/n' in size <12> not available
-(Font)              Font shape `T1/clm2j/bx/n' tried instead on input line 1.
- [2
-
-
-{C:/Program Files/MiKTeX/fonts/enc/dvips/cfr-lm/dotdigits-clm.enc}])
+{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./Imagenes/acustica-color.png> <./Imagenes/UACh_Marcacolor.png>]
+No file main.toc.
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3]
+[2
+
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/cfr-lm/dotdigits-clm.enc}]
 \openout2 = `Contenido/1.Introduccion.aux'.
 
  (Contenido/1.Introduccion.tex
+
+LaTeX Warning: Citation `carrion1990diseno' undefined on input line 4.
+
+
+LaTeX Warning: Citation `ISO3382-2' undefined on input line 15.
+
 LaTeX Font Info:    Trying to load font information for TS1+clm2j on input line 19.
- (C:\Program Files\MiKTeX\tex/latex/cfr-lm\ts1clm2j.fd
+(C:\Program Files\MiKTeX\tex/latex/cfr-lm\ts1clm2j.fd
 File: ts1clm2j.fd 2008/02/13 Fontinst v1.928 font definitions for TS1/clm2j.
-)) [4
+)
+LaTeX Font Info:    Font shape `T1/clm2j/b/n' in size <12> not available
+(Font)              Font shape `T1/clm2j/bx/n' tried instead on input line 19.
+) [3
 
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 \openout2 = `Contenido/3.Antecedentes.aux'.
 
  (Contenido/3.Antecedentes.tex
-<Imagenes/centroextensionuach.jpg, id=265, 602.25pt x 602.25pt>
+
+LaTeX Warning: Citation `loscanelos' undefined on input line 3.
+
+<Imagenes/centroextensionuach.jpg, id=47, 602.25pt x 602.25pt>
 File: Imagenes/centroextensionuach.jpg Graphic file (type jpg)
 <use Imagenes/centroextensionuach.jpg>
 Package pdftex.def Info: Imagenes/centroextensionuach.jpg  used on input line 7.
 (pdftex.def)             Requested size: 271.01pt x 271.01pt.
-<Imagenes/Antecedentes/Geolocalización.png, id=267, 770.88pt x 578.16pt>
+
+LaTeX Warning: Reference `fig:geolocalización' on page 4 undefined on input line 14.
+
+<Imagenes/Antecedentes/Geolocalización.png, id=48, 770.88pt x 578.16pt>
 File: Imagenes/Antecedentes/Geolocalización.png Graphic file (type png)
 <use Imagenes/Antecedentes/Geolocalización.png>
 Package pdftex.def Info: Imagenes/Antecedentes/Geolocalización.png  used on input line 17.
 (pdftex.def)             Requested size: 385.43906pt x 289.07928pt.
- [5
+[4
 
 
 
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./Imagenes/centroextensionuach.jpg>]
-<Imagenes/Antecedentes/Sala 1.jpg, id=281, 3276.24pt x 1842.885pt>
+
+LaTeX Warning: Reference `fig: foto sala1' on page 5 undefined on input line 22.
+
+
+LaTeX Warning: Reference `fig: foto sala2' on page 5 undefined on input line 22.
+
+
+LaTeX Warning: Reference `fig: foto sala OCV' on page 5 undefined on input line 22.
+
+<Imagenes/Antecedentes/Sala 1.jpg, id=58, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala 1.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala 1.jpg>
 Package pdftex.def Info: Imagenes/Antecedentes/Sala 1.jpg  used on input line 25.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
-<Imagenes/Antecedentes/Sala 2.jpg, id=282, 3276.24pt x 1842.885pt>
+<Imagenes/Antecedentes/Sala 2.jpg, id=59, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala 2.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala 2.jpg>
 Package pdftex.def Info: Imagenes/Antecedentes/Sala 2.jpg  used on input line 32.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
- [6 <./Imagenes/Antecedentes/Geolocalización.png> <./Imagenes/Antecedentes/Sala 1.jpg>]
-<Imagenes/Antecedentes/Sala OCV.jpg, id=291, 3276.24pt x 1842.885pt>
+[5 <./Imagenes/Antecedentes/Geolocalización.png> <./Imagenes/Antecedentes/Sala 1.jpg>]
+<Imagenes/Antecedentes/Sala OCV.jpg, id=67, 3276.24pt x 1842.885pt>
 File: Imagenes/Antecedentes/Sala OCV.jpg Graphic file (type jpg)
 <use Imagenes/Antecedentes/Sala OCV.jpg>
 Package pdftex.def Info: Imagenes/Antecedentes/Sala OCV.jpg  used on input line 39.
 (pdftex.def)             Requested size: 327.64319pt x 184.29929pt.
-) [7 <./Imagenes/Antecedentes/Sala 2.jpg> <./Imagenes/Antecedentes/Sala OCV.jpg>]
+) [6 <./Imagenes/Antecedentes/Sala 2.jpg> <./Imagenes/Antecedentes/Sala OCV.jpg>]
 \openout2 = `Contenido/4.Planificacion.aux'.
 
  (Contenido/4.Planificacion.tex
 LaTeX Font Info:    Font shape `T1/clm2j/b/n' in size <14.4> not available
 (Font)              Font shape `T1/clm2j/bx/n' tried instead on input line 2.
- [8
+
+
+LaTeX Warning: Reference `tab: plan de trabajo' on page 7 undefined on input line 3.
+
+[7
 
 
 
 ]
+
+LaTeX Warning: Reference `tab: carta gantt' on page 8 undefined on input line 29.
+
+
+LaTeX Warning: Reference `tab: plan de trabajo' on page 8 undefined on input line 29.
+
+
 Overfull \hbox (2.29848pt too wide) in paragraph at lines 34--51
  [][] 
  []
 
-) [9]
+) [8]
 \openout2 = `Contenido/5.Metodologia.aux'.
 
  (Contenido/5.Metodologia.tex
-<Imagenes/Planos/Planos.png, id=311, 1204.5pt x 852.18375pt>
+
+LaTeX Warning: Reference `fig: planos CAD' on page 9 undefined on input line 3.
+
+<Imagenes/Planos/Planos.png, id=88, 1204.5pt x 852.18375pt>
 File: Imagenes/Planos/Planos.png Graphic file (type png)
 <use Imagenes/Planos/Planos.png>
 Package pdftex.def Info: Imagenes/Planos/Planos.png  used on input line 7.
 (pdftex.def)             Requested size: 361.35278pt x 255.65709pt.
-<Imagenes/mediciones/medicionRDF.jpeg, id=314, 1204.5pt x 1606.0pt>
+
+LaTeX Warning: Citation `ds:ds38' undefined on input line 46.
+
+<Imagenes/mediciones/medicionRDF.jpeg, id=91, 1204.5pt x 1606.0pt>
 File: Imagenes/mediciones/medicionRDF.jpeg Graphic file (type jpg)
 <use Imagenes/mediciones/medicionRDF.jpeg>
 Package pdftex.def Info: Imagenes/mediciones/medicionRDF.jpeg  used on input line 49.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
- [10
+[9
 
 
 
  <./Imagenes/Planos/Planos.png>]
-<Imagenes/mediciones/medicionRT.jpeg, id=325, 1204.5pt x 1606.0pt>
+
+LaTeX Warning: Reference `subsec: posiciones RT' on page 10 undefined on input line 55.
+
+<Imagenes/mediciones/medicionRT.jpeg, id=104, 1204.5pt x 1606.0pt>
 File: Imagenes/mediciones/medicionRT.jpeg Graphic file (type jpg)
 <use Imagenes/mediciones/medicionRT.jpeg>
 Package pdftex.def Info: Imagenes/mediciones/medicionRT.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
- [11 <./Imagenes/mediciones/medicionRDF.jpeg>]) [12 <./Imagenes/mediciones/medicionRT.jpeg>]
+[10 <./Imagenes/mediciones/medicionRDF.jpeg>]) [11 <./Imagenes/mediciones/medicionRT.jpeg>]
 \openout2 = `Contenido/6.Modelación.aux'.
 
  (Contenido/6.Modelación.tex
-<Imagenes/Modelacion/Sala 1 Sketchup.png, id=343, 1099.85907pt x 653.44125pt>
+
+LaTeX Warning: Reference `fig: planos CAD' on page 12 undefined on input line 3.
+
+
+LaTeX Warning: Citation `sketchup' undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig: sketchup sala 1' on page 12 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig: sketchup sala 2' on page 12 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig: sketchup sala de ensayo' on page 12 undefined on input line 3.
+
+<Imagenes/Modelacion/Sala 1 Sketchup.png, id=120, 1099.85907pt x 653.44125pt>
 File: Imagenes/Modelacion/Sala 1 Sketchup.png Graphic file (type png)
 <use Imagenes/Modelacion/Sala 1 Sketchup.png>
 Package pdftex.def Info: Imagenes/Modelacion/Sala 1 Sketchup.png  used on input line 6.
 (pdftex.def)             Requested size: 227.62204pt x 135.23256pt.
-<Imagenes/Modelacion/Sala 2 Sketchup.png, id=344, 861.9703pt x 631.60968pt>
+<Imagenes/Modelacion/Sala 2 Sketchup.png, id=121, 861.9703pt x 631.60968pt>
 File: Imagenes/Modelacion/Sala 2 Sketchup.png Graphic file (type png)
 <use Imagenes/Modelacion/Sala 2 Sketchup.png>
 Package pdftex.def Info: Imagenes/Modelacion/Sala 2 Sketchup.png  used on input line 13.
 (pdftex.def)             Requested size: 227.62204pt x 166.78787pt.
-<Imagenes/Modelacion/Sala ensayo Sketchup.jpg, id=345, 660.66824pt x 475.7775pt>
+<Imagenes/Modelacion/Sala ensayo Sketchup.jpg, id=122, 660.66824pt x 475.7775pt>
 File: Imagenes/Modelacion/Sala ensayo Sketchup.jpg Graphic file (type jpg)
 <use Imagenes/Modelacion/Sala ensayo Sketchup.jpg>
 Package pdftex.def Info: Imagenes/Modelacion/Sala ensayo Sketchup.jpg  used on input line 20.
 (pdftex.def)             Requested size: 227.62204pt x 163.91835pt.
- [13
+
+LaTeX Warning: Citation `ease' undefined on input line 26.
+
+
+LaTeX Warning: Reference `tab:materiales-ease' on page 12 undefined on input line 26.
+
+
+LaTeX Warning: Reference `eq:T60' on page 12 undefined on input line 26.
+
+[12
 
 
 
- <./Imagenes/Modelacion/Sala 1 Sketchup.png> <./Imagenes/Modelacion/Sala 2 Sketchup.png>]
-Overfull \hbox (33.52565pt too wide) in paragraph at lines 33--42
- [][] 
- []
+ <./Imagenes/Modelacion/Sala 1 Sketchup.png> <./Imagenes/Modelacion/Sala 2 Sketchup.png> <./Imagenes/Modelacion/Sala ensayo Sketchup.jpg>]
 
-<Imagenes/Modelacion/Instrumentos_ease.png, id=374, 1476.51625pt x 684.5575pt>
+LaTeX Warning: Citation `Recuero' undefined on input line 37.
+
+
+LaTeX Warning: Citation `Recuero' undefined on input line 38.
+
+
+LaTeX Warning: Citation `blackboard' undefined on input line 39.
+
+
+LaTeX Warning: Citation `Recuero' undefined on input line 40.
+
+
+LaTeX Warning: Citation `ackermann2023database' undefined on input line 57.
+
+
+LaTeX Warning: Reference `fig: EASE instrumentos' on page 13 undefined on input line 59.
+
+
+LaTeX Warning: Reference `fig: ensayo cuerdas OCV' on page 13 undefined on input line 60.
+
+
+LaTeX Warning: Reference `fig: ensayo vientos OCV' on page 13 undefined on input line 60.
+
+<Imagenes/Modelacion/Instrumentos_ease.png, id=147, 1476.51625pt x 684.5575pt>
 File: Imagenes/Modelacion/Instrumentos_ease.png Graphic file (type png)
 <use Imagenes/Modelacion/Instrumentos_ease.png>
 Package pdftex.def Info: Imagenes/Modelacion/Instrumentos_ease.png  used on input line 64.
 (pdftex.def)             Requested size: 284.52756pt x 131.91612pt.
-<Imagenes/OCV/OCV cuerdas.jpg, id=375, 1084.05pt x 610.28pt>
+<Imagenes/OCV/OCV cuerdas.jpg, id=148, 1084.05pt x 610.28pt>
 File: Imagenes/OCV/OCV cuerdas.jpg Graphic file (type jpg)
 <use Imagenes/OCV/OCV cuerdas.jpg>
 Package pdftex.def Info: Imagenes/OCV/OCV cuerdas.jpg  used on input line 70.
 (pdftex.def)             Requested size: 284.52756pt x 160.17761pt.
-[14 <./Imagenes/Modelacion/Sala ensayo Sketchup.jpg>]
-<Imagenes/OCV/OCV vientos.jpg, id=391, 1084.05pt x 610.28pt>
+[13 <./Imagenes/Modelacion/Instrumentos_ease.png (PNG copy)>]
+<Imagenes/OCV/OCV vientos.jpg, id=162, 1084.05pt x 610.28pt>
 File: Imagenes/OCV/OCV vientos.jpg Graphic file (type jpg)
 <use Imagenes/OCV/OCV vientos.jpg>
 Package pdftex.def Info: Imagenes/OCV/OCV vientos.jpg  used on input line 77.
 (pdftex.def)             Requested size: 284.52756pt x 160.17761pt.
-) [15 <./Imagenes/Modelacion/Instrumentos_ease.png (PNG copy)> <./Imagenes/OCV/OCV cuerdas.jpg> <./Imagenes/OCV/OCV vientos.jpg>]
+) [14 <./Imagenes/OCV/OCV cuerdas.jpg> <./Imagenes/OCV/OCV vientos.jpg>]
 \openout2 = `Contenido/7.Recomendaciones.aux'.
 
  (Contenido/7.Recomendaciones.tex
-Overfull \hbox (58.79202pt too wide) in paragraph at lines 8--16
- [][] 
- []
+
+LaTeX Warning: Reference `tab: parametros objetivos sala de reuniones' on page 15 undefined on input line 4.
 
 
-Overfull \hbox (44.9638pt too wide) in paragraph at lines 24--32
- [][] 
- []
+LaTeX Warning: Citation `Recuero' undefined on input line 11.
 
-) [16
+
+LaTeX Warning: Citation `DIN18041' undefined on input line 12.
+
+
+LaTeX Warning: Citation `marshall1994' undefined on input line 13.
+
+
+LaTeX Warning: Citation `ISO9921' undefined on input line 14.
+
+
+LaTeX Warning: Reference `tab: parametros objetivos sala de ensayo' on page 15 undefined on input line 20.
+
+
+LaTeX Warning: Citation `Recuero' undefined on input line 27.
+
+
+LaTeX Warning: Citation `marshall1994' undefined on input line 29.
+
+) [15
 
 
 
@@ -1003,119 +1103,178 @@ Overfull \hbox (44.9638pt too wide) in paragraph at lines 24--32
 \openout2 = `Contenido/8.ResultadosActual.aux'.
 
  (Contenido/8.ResultadosActual.tex
-<Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png, id=425, 613.48196pt x 420.15971pt>
+
+LaTeX Warning: Reference `fig: Curvas NC sala 1' on page 16 undefined on input line 4.
+
+
+LaTeX Warning: Reference `fig: Curvas NC sala 2' on page 16 undefined on input line 4.
+
+
+LaTeX Warning: Reference `fig: Curvas NC sala de ensayo' on page 16 undefined on input line 4.
+
+<Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png, id=196, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png  used on input line 7.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
-<Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png, id=426, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png, id=197, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png  used on input line 14.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
-<Imagenes/Resultados/Curvas NC-NR/NC ensayo.png, id=427, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NC ensayo.png, id=198, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC ensayo.png  used on input line 21.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
- [17
+[16
 
 
 
  <./Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png> <./Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png>]
-<Imagenes/DIN/DIN sala reunion 1 actual.png, id=440, 503.7219pt x 421.3341pt>
+
+LaTeX Warning: Reference `secc: Recomendaciones' on page 17 undefined on input line 26.
+
+
+LaTeX Warning: Reference `tab: cumplimiento de Rdf' on page 17 undefined on input line 26.
+
+
+LaTeX Warning: Reference `subseccc: mediciones tiempo de reverberación' on page 17 undefined on input line 43.
+
+<Imagenes/DIN/DIN sala reunion 1 actual.png, id=209, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 1 actual.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 1 actual.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 1 actual.png  used on input line 46.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
- [18 <./Imagenes/Resultados/Curvas NC-NR/NC ensayo.png>]
-<Imagenes/DIN/DIN sala reunion 2 actual.png, id=447, 503.7219pt x 421.3341pt>
+[17 <./Imagenes/Resultados/Curvas NC-NR/NC ensayo.png>]
+<Imagenes/DIN/DIN sala reunion 2 actual.png, id=219, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 2 actual.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 2 actual.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 2 actual.png  used on input line 53.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
-<Imagenes/Resultados/D50_actual.png, id=449, 619.26357pt x 422.68916pt>
+
+
+LaTeX Warning: Reference `secc: Recomendaciones' on page 18 undefined on input line 72.
+
+<Imagenes/Resultados/D50_actual.png, id=220, 619.26357pt x 422.68916pt>
 File: Imagenes/Resultados/D50_actual.png Graphic file (type png)
 <use Imagenes/Resultados/D50_actual.png>
 Package pdftex.def Info: Imagenes/Resultados/D50_actual.png  used on input line 76.
 (pdftex.def)             Requested size: 284.52756pt x 194.20718pt.
- [19 <./Imagenes/DIN/DIN sala reunion 1 actual.png> <./Imagenes/DIN/DIN sala reunion 2 actual.png>]
-<Imagenes/Modos/densidad modal.png, id=462, 722.7pt x 361.35pt>
+[18 <./Imagenes/DIN/DIN sala reunion 1 actual.png> <./Imagenes/DIN/DIN sala reunion 2 actual.png>]
+
+LaTeX Warning: Reference `tab:parametros acusticos sala ensayo' on page 19 undefined on input line 79.
+
+
+LaTeX Warning: Reference `fig: distribucion modal' on page 19 undefined on input line 93.
+
+<Imagenes/Modos/densidad modal.png, id=230, 722.7pt x 361.35pt>
 File: Imagenes/Modos/densidad modal.png Graphic file (type png)
 <use Imagenes/Modos/densidad modal.png>
 Package pdftex.def Info: Imagenes/Modos/densidad modal.png  used on input line 97.
 (pdftex.def)             Requested size: 284.52756pt x 142.26578pt.
-<Imagenes/Modos/modo_48hz.png, id=463, 944.02687pt x 386.94562pt>
+<Imagenes/Modos/modo_48hz.png, id=231, 944.02687pt x 386.94562pt>
 File: Imagenes/Modos/modo_48hz.png Graphic file (type png)
 <use Imagenes/Modos/modo_48hz.png>
 Package pdftex.def Info: Imagenes/Modos/modo_48hz.png  used on input line 104.
 (pdftex.def)             Requested size: 284.52756pt x 116.62187pt.
-) [20 <./Imagenes/Resultados/D50_actual.png> <./Imagenes/Modos/densidad modal.png>] [21 <./Imagenes/Modos/modo_48hz.png (PNG copy)>]
+) [19 <./Imagenes/Resultados/D50_actual.png> <./Imagenes/Modos/densidad modal.png>] [20 <./Imagenes/Modos/modo_48hz.png (PNG copy)>]
 \openout2 = `Contenido/9.Propuesta.aux'.
 
  (Contenido/9.Propuesta.tex
-<Imagenes/Propuesta/propuesta_reunion1.jpg, id=480, 604.05675pt x 498.663pt>
+
+LaTeX Warning: Reference `fig:propuesta_reunion1' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Reference `fig:propuesta_reunion2' on page 21 undefined on input line 8.
+
+<Imagenes/Propuesta/propuesta_reunion1.jpg, id=249, 604.05675pt x 498.663pt>
 File: Imagenes/Propuesta/propuesta_reunion1.jpg Graphic file (type jpg)
 <use Imagenes/Propuesta/propuesta_reunion1.jpg>
 Package pdftex.def Info: Imagenes/Propuesta/propuesta_reunion1.jpg  used on input line 12.
 (pdftex.def)             Requested size: 284.52756pt x 234.88904pt.
-<Imagenes/Propuesta/propuesta_reunion2.jpg, id=481, 621.522pt x 504.6855pt>
+<Imagenes/Propuesta/propuesta_reunion2.jpg, id=250, 621.522pt x 504.6855pt>
 File: Imagenes/Propuesta/propuesta_reunion2.jpg Graphic file (type jpg)
 <use Imagenes/Propuesta/propuesta_reunion2.jpg>
 Package pdftex.def Info: Imagenes/Propuesta/propuesta_reunion2.jpg  used on input line 19.
 (pdftex.def)             Requested size: 284.52756pt x 231.04152pt.
- [22
+[21
 
 
 
  <./Imagenes/Propuesta/propuesta_reunion1.jpg>]
-<Imagenes/Propuesta/Sala ensayo sin paneles.jpg, id=489, 720.89325pt x 536.60475pt>
+
+LaTeX Warning: Reference `tab: coef abs volcanita Rigitone' on page 22 undefined on input line 24.
+
+<Imagenes/Propuesta/Sala ensayo sin paneles.jpg, id=258, 720.89325pt x 536.60475pt>
 File: Imagenes/Propuesta/Sala ensayo sin paneles.jpg Graphic file (type jpg)
 <use Imagenes/Propuesta/Sala ensayo sin paneles.jpg>
 Package pdftex.def Info: Imagenes/Propuesta/Sala ensayo sin paneles.jpg  used on input line 43.
 (pdftex.def)             Requested size: 284.52756pt x 211.7887pt.
-) [23 <./Imagenes/Propuesta/propuesta_reunion2.jpg>] [24 <./Imagenes/Propuesta/Sala ensayo sin paneles.jpg>]
+) [22 <./Imagenes/Propuesta/propuesta_reunion2.jpg>] [23 <./Imagenes/Propuesta/Sala ensayo sin paneles.jpg>]
 \openout2 = `Contenido/10.ResultadosAcond.aux'.
 
  (Contenido/10.ResultadosAcond.tex
-<Imagenes/DIN/DIN sala reunion 1 comparacion.png, id=500, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 1 comparacion.png, id=271, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 1 comparacion.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 1 comparacion.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 1 comparacion.png  used on input line 6.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
-<Imagenes/DIN/DIN sala reunion 2 comparacion.png, id=501, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 2 comparacion.png, id=272, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 2 comparacion.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 2 comparacion.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 2 comparacion.png  used on input line 12.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
- [25
+ [24
 
 
 
  <./Imagenes/DIN/DIN sala reunion 1 comparacion.png> <./Imagenes/DIN/DIN sala reunion 2 comparacion.png>]
-<Imagenes/Resultados/D50_comparacion.png, id=511, 619.26357pt x 422.68916pt>
+<Imagenes/Resultados/D50_comparacion.png, id=283, 619.26357pt x 422.68916pt>
 File: Imagenes/Resultados/D50_comparacion.png Graphic file (type png)
 <use Imagenes/Resultados/D50_comparacion.png>
 Package pdftex.def Info: Imagenes/Resultados/D50_comparacion.png  used on input line 35.
 (pdftex.def)             Requested size: 284.52756pt x 194.20718pt.
-) [26 <./Imagenes/Resultados/D50_comparacion.png>]
+
+
+LaTeX Warning: Reference `tab: resultados sala de ensayo' on page 25 undefined on input line 41.
+
+) [25 <./Imagenes/Resultados/D50_comparacion.png>]
 \openout2 = `Contenido/11.Presupuesto.aux'.
 
  (Contenido/11.Presupuesto.tex)
 \openout2 = `Contenido/12.MedicionTubo.aux'.
 
  (Contenido/12.MedicionTubo.tex
-<Imagenes/Medición abs/materiales.jpeg, id=522, 1606.0pt x 903.375pt>
+
+LaTeX Warning: Reference `fig: materiales medicion coef abs' on page 26 undefined on input line 2.
+
+<Imagenes/Medición abs/materiales.jpeg, id=294, 1606.0pt x 903.375pt>
 File: Imagenes/Medición abs/materiales.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/materiales.jpeg>
 Package pdftex.def Info: Imagenes/Medición abs/materiales.jpeg  used on input line 6.
 (pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
-<Imagenes/Medición abs/MATERIAL.png, id=524, 757.32938pt x 410.2828pt>
+
+LaTeX Warning: Reference `fig: madera medida' on page 26 undefined on input line 11.
+
+<Imagenes/Medición abs/MATERIAL.png, id=295, 757.32938pt x 410.2828pt>
 File: Imagenes/Medición abs/MATERIAL.png Graphic file (type png)
 <use Imagenes/Medición abs/MATERIAL.png>
 Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line 15.
 (pdftex.def)             Requested size: 227.62204pt x 123.31116pt.
- [27
+
+LaTeX Warning: Reference `eq: alpha' on page 26 undefined on input line 21.
+
+
+LaTeX Warning: Reference `tab: coef de abs medidos' on page 26 undefined on input line 21.
+
+
+LaTeX Warning: Reference `fig: grafico de coef abs de lana mineral' on page 26 undefined on input line 21.
+
+
+LaTeX Warning: Reference `fig: grafico de coef abs de lana de vidrio' on page 26 undefined on input line 21.
+
+[26
 
 
 
@@ -1123,17 +1282,17 @@ Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line
 
 
  <./Imagenes/Medición abs/materiales.jpeg> <./Imagenes/Medición abs/MATERIAL.png>]
-<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=539, 577.065pt x 300.03pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=303, 577.065pt x 300.03pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaMineral.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png  used on input line 48.
 (pdftex.def)             Requested size: 284.52756pt x 147.9316pt.
-<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=540, 553.851pt x 293.898pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=304, 553.851pt x 293.898pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png  used on input line 55.
 (pdftex.def)             Requested size: 284.52756pt x 150.98021pt.
-) [28 <./Imagenes/Medición abs/Grafico coef.abs LanaMineral.png> <./Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>]
+) [27 <./Imagenes/Medición abs/Grafico coef.abs LanaMineral.png> <./Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>]
 \openout2 = `Contenido/Conclusion.aux'.
 
  (Contenido/Conclusion.tex)
@@ -1141,7 +1300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--61
 
  []
 
-[29
+[28
 
 
 
@@ -1154,111 +1313,161 @@ Underfull \hbox (badness 2012) in paragraph at lines 178--190
 \T1/clm2j/m/n/12 (Disponible en: []$\T1/clm2jv/m/n/12 http :// vinculacion [] .uach [] .cl / index [] .php / organizacion / quienes []
  []
 
-) [30
+) [29
 
 
 ]
 \openout2 = `Contenido/Anexo.aux'.
 
  (Contenido/Anexo.tex
-<Imagenes/MarcoTeorico/CurvaNC.png, id=576, 680.5425pt x 483.30562pt>
+
+LaTeX Warning: Reference `fig:curvas NC' on page 30 undefined on input line 35.
+
+<Imagenes/MarcoTeorico/CurvaNC.png, id=344, 680.5425pt x 483.30562pt>
 File: Imagenes/MarcoTeorico/CurvaNC.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/CurvaNC.png>
 Package pdftex.def Info: Imagenes/MarcoTeorico/CurvaNC.png  used on input line 38.
 (pdftex.def)             Requested size: 227.62204pt x 161.65211pt.
- [31
+[30
 
-] [32 <./Imagenes/MarcoTeorico/CurvaNC.png>]
-<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=602, 579.66562pt x 239.39438pt>
+]
+
+LaTeX Warning: Reference `tab:recomendaciones Curva NC' on page 31 undefined on input line 42.
+
+
+LaTeX Warning: Reference `eq:T60' on page 31 undefined on input line 73.
+
+
+LaTeX Warning: Citation `sabine1922collected' undefined on input line 73.
+
+[31 <./Imagenes/MarcoTeorico/CurvaNC.png>]
+
+LaTeX Warning: Reference `tab:rtmid recomendado por tipo de sala' on page 32 undefined on input line 84.
+
+
+LaTeX Warning: Reference `fig:Recomendaciones C50 C80' on page 32 undefined on input line 113.
+
+
+LaTeX Warning: Citation `marshall1994' undefined on input line 113.
+
+<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=371, 579.66562pt x 239.39438pt>
 File: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>
 Package pdftex.def Info: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png  used on input line 116.
 (pdftex.def)             Requested size: 289.83209pt x 119.69688pt.
- [33{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-<Imagenes/MarcoTeorico/respuesta_frecuencias.jpg, id=623, 630.55576pt x 383.63326pt>
+[32{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
+
+LaTeX Warning: Citation `Kuttruff_2017' undefined on input line 124.
+
+
+LaTeX Warning: Citation `ISO9921' undefined on input line 128.
+
+
+LaTeX Warning: Reference `tab: rango STI' on page 33 undefined on input line 128.
+
+
+LaTeX Warning: Citation `Kleiner2014-fd' undefined on input line 147.
+
+
+LaTeX Warning: Reference `fig: respuesta frecuencia' on page 33 undefined on input line 148.
+
+
+LaTeX Warning: Citation `Kuttruff_2017' undefined on input line 150.
+
+<Imagenes/MarcoTeorico/respuesta_frecuencias.jpg, id=390, 630.55576pt x 383.63326pt>
 File: Imagenes/MarcoTeorico/respuesta_frecuencias.jpg Graphic file (type jpg)
 <use Imagenes/MarcoTeorico/respuesta_frecuencias.jpg>
 Package pdftex.def Info: Imagenes/MarcoTeorico/respuesta_frecuencias.jpg  used on input line 154.
 (pdftex.def)             Requested size: 284.52756pt x 173.11337pt.
- [34 <./Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>]
-<Imagenes/Medición abs/TuboImpedancia.jpeg, id=632, 1027.84pt x 770.88pt>
+[33 <./Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>]
+<Imagenes/Medición abs/TuboImpedancia.jpeg, id=400, 1027.84pt x 770.88pt>
 File: Imagenes/Medición abs/TuboImpedancia.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/TuboImpedancia.jpeg>
 Package pdftex.def Info: Imagenes/Medición abs/TuboImpedancia.jpeg  used on input line 163.
 (pdftex.def)             Requested size: 284.52756pt x 213.39828pt.
- [35 <./Imagenes/MarcoTeorico/respuesta_frecuencias.jpg> <./Imagenes/Medición abs/TuboImpedancia.jpeg>]
-<Imagenes/Medición abs/curva de referencia.png, id=643, 362.007pt x 217.467pt>
+
+
+LaTeX Warning: Citation `ISO10534-2' undefined on input line 174.
+
+[34 <./Imagenes/MarcoTeorico/respuesta_frecuencias.jpg> <./Imagenes/Medición abs/TuboImpedancia.jpeg>]
+
+LaTeX Warning: Reference `fig: curva de referencia' on page 35 undefined on input line 184.
+
+
+LaTeX Warning: Citation `ISO11654' undefined on input line 187.
+
+<Imagenes/Medición abs/curva de referencia.png, id=413, 362.007pt x 217.467pt>
 File: Imagenes/Medición abs/curva de referencia.png Graphic file (type png)
 <use Imagenes/Medición abs/curva de referencia.png>
 Package pdftex.def Info: Imagenes/Medición abs/curva de referencia.png  used on input line 190.
 (pdftex.def)             Requested size: 284.52756pt x 170.92432pt.
-<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=644, 747.54282pt x 581.92406pt>
+<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=414, 747.54282pt x 581.92406pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 1.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 1.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 1.png  used on input line 199.
 (pdftex.def)             Requested size: 299.01183pt x 232.7655pt.
- [36 <./Imagenes/Medición abs/curva de referencia.png>]
-<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=652, 574.39594pt x 587.19376pt>
+[35 <./Imagenes/Medición abs/curva de referencia.png>]
+<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=423, 574.39594pt x 587.19376pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 2.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 2.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 2.png  used on input line 206.
 (pdftex.def)             Requested size: 229.75429pt x 234.87334pt.
-<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=653, 475.7775pt x 657.2053pt>
+<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=424, 475.7775pt x 657.2053pt>
 File: Imagenes/PosicionesRT/Posiciones Sala OCV.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala OCV.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala OCV.png  used on input line 213.
 (pdftex.def)             Requested size: 190.30762pt x 262.87746pt.
- [37 <./Imagenes/PosicionesRT/Posiciones Sala 1.png> <./Imagenes/PosicionesRT/Posiciones Sala 2.png>]
-<Imagenes/Resultados/T60_Sala_reunion_1.png, id=663, 615.65005pt x 305.06973pt>
+ [36 <./Imagenes/PosicionesRT/Posiciones Sala 1.png> <./Imagenes/PosicionesRT/Posiciones Sala 2.png>]
+<Imagenes/Resultados/T60_Sala_reunion_1.png, id=433, 615.65005pt x 305.06973pt>
 File: Imagenes/Resultados/T60_Sala_reunion_1.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_1.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_1.png  used on input line 222.
 (pdftex.def)             Requested size: 341.43306pt x 169.19466pt.
-<Imagenes/Resultados/T60_Sala_reunion_2.png, id=664, 570.933pt x 281.853pt>
+<Imagenes/Resultados/T60_Sala_reunion_2.png, id=434, 570.933pt x 281.853pt>
 File: Imagenes/Resultados/T60_Sala_reunion_2.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_2.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_2.png  used on input line 229.
 (pdftex.def)             Requested size: 341.43306pt x 168.5626pt.
- [38 <./Imagenes/PosicionesRT/Posiciones Sala OCV.png> <./Imagenes/Resultados/T60_Sala_reunion_1.png>]
-<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=673, 615.65005pt x 369.84172pt>
+ [37 <./Imagenes/PosicionesRT/Posiciones Sala OCV.png> <./Imagenes/Resultados/T60_Sala_reunion_1.png>]
+<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=445, 615.65005pt x 369.84172pt>
 File: Imagenes/Resultados/T60_Sala_de_ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_de_ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_de_ensayo.png  used on input line 236.
 (pdftex.def)             Requested size: 341.43306pt x 205.11784pt.
-<Imagenes/STI actual/STI_Reunion1_SinAcond.jpg, id=674, 797.98125pt x 536.0025pt>
+<Imagenes/STI actual/STI_Reunion1_SinAcond.jpg, id=446, 797.98125pt x 536.0025pt>
 File: Imagenes/STI actual/STI_Reunion1_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STI_Reunion1_SinAcond.jpg>
 Package pdftex.def Info: Imagenes/STI actual/STI_Reunion1_SinAcond.jpg  used on input line 244.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg, id=675, 615.29875pt x 232.87pt>
+<Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg, id=447, 615.29875pt x 232.87pt>
 File: Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg>
 Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg  used on input line 250.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
- [39 <./Imagenes/Resultados/T60_Sala_reunion_2.png> <./Imagenes/Resultados/T60_Sala_de_ensayo.png>]
-<Imagenes/STI actual/STI_Reunion2_SinAcond.jpg, id=684, 797.98125pt x 536.0025pt>
+ [38 <./Imagenes/Resultados/T60_Sala_reunion_2.png> <./Imagenes/Resultados/T60_Sala_de_ensayo.png>]
+<Imagenes/STI actual/STI_Reunion2_SinAcond.jpg, id=456, 797.98125pt x 536.0025pt>
 File: Imagenes/STI actual/STI_Reunion2_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STI_Reunion2_SinAcond.jpg>
 Package pdftex.def Info: Imagenes/STI actual/STI_Reunion2_SinAcond.jpg  used on input line 256.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg, id=685, 615.29875pt x 232.87pt>
+<Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg, id=457, 615.29875pt x 232.87pt>
 File: Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg>
 Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg  used on input line 262.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
- [40 <./Imagenes/STI actual/STI_Reunion1_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg>]
-<Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg, id=692, 797.98125pt x 536.0025pt>
+ [39 <./Imagenes/STI actual/STI_Reunion1_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg>]
+<Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg, id=465, 797.98125pt x 536.0025pt>
 File: Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg>
 Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg  used on input line 270.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg, id=693, 615.29875pt x 232.87pt>
+<Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg, id=466, 615.29875pt x 232.87pt>
 File: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>
 Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 276.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
- [41 <./Imagenes/STI actual/STI_Reunion2_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg>]
-<Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg, id=700, 797.98125pt x 536.0025pt>
+ [40 <./Imagenes/STI actual/STI_Reunion2_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg>]
+<Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg, id=473, 797.98125pt x 536.0025pt>
 File: Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg>
 Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg  used on input line 283.
@@ -1267,30 +1476,43 @@ File: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg Graphic file (typ
 <use Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>
 Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 289.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
- [42 <./Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg> <./Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>]) [43 <./Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg>] (main.aux (Portada.aux) (Contenido/1.Introduccion.aux) (Contenido/3.Antecedentes.aux) (Contenido/4.Planificacion.aux) (Contenido/5.Metodologia.aux) (Contenido/6.Modelación.aux) (Contenido/7.Recomendaciones.aux) (Contenido/8.ResultadosActual.aux) (Contenido/9.Propuesta.aux) (Contenido/10.ResultadosAcond.aux) (Contenido/11.Presupuesto.aux) (Contenido/12.MedicionTubo.aux) (Contenido/Conclusion.aux) (Contenido/Anexo.aux))
+ [41 <./Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg> <./Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>]) [42 <./Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg>] (main.aux (Portada.aux) (Contenido/1.Introduccion.aux) (Contenido/3.Antecedentes.aux) (Contenido/4.Planificacion.aux) (Contenido/5.Metodologia.aux) (Contenido/6.Modelación.aux) (Contenido/7.Recomendaciones.aux) (Contenido/8.ResultadosActual.aux) (Contenido/9.Propuesta.aux) (Contenido/10.ResultadosAcond.aux) (Contenido/11.Presupuesto.aux) (Contenido/12.MedicionTubo.aux) (Contenido/Conclusion.aux) (Contenido/Anexo.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 957C22201C9EA31D9D148AF22F31DC2D;7493.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  957C22201C9EA31D9D148AF22F31DC2D;7493.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 20 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 35962 strings out of 474586
- 830901 string characters out of 5755495
+ 35852 strings out of 474586
+ 827964 string characters out of 5755495
  1948558 words of memory out of 5000000
- 57240 multiletter control sequences out of 15000+600000
+ 57165 multiletter control sequences out of 15000+600000
  625553 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,18n,85p,1026b,20540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,18n,85p,1026b,20591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb>
-Output written on main.pdf (43 pages, 15451780 bytes).
+Output written on main.pdf (42 pages, 15415928 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 181 named destinations out of 1000 (max. 500000)
- 617 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 180 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
