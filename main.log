@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 14:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -926,7 +926,7 @@ Package pdftex.def Info: Imagenes/Planos/Planos.png  used on input line 7.
 <Imagenes/mediciones/medicionRDF.jpeg, id=309, 1204.5pt x 1606.0pt>
 File: Imagenes/mediciones/medicionRDF.jpeg Graphic file (type jpg)
 <use Imagenes/mediciones/medicionRDF.jpeg>
-Package pdftex.def Info: Imagenes/mediciones/medicionRDF.jpeg  used on input line 43.
+Package pdftex.def Info: Imagenes/mediciones/medicionRDF.jpeg  used on input line 49.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
  [10
 
@@ -936,7 +936,7 @@ Package pdftex.def Info: Imagenes/mediciones/medicionRDF.jpeg  used on input lin
 <Imagenes/mediciones/medicionRT.jpeg, id=320, 1204.5pt x 1606.0pt>
 File: Imagenes/mediciones/medicionRT.jpeg Graphic file (type jpg)
 <use Imagenes/mediciones/medicionRT.jpeg>
-Package pdftex.def Info: Imagenes/mediciones/medicionRT.jpeg  used on input line 53.
+Package pdftex.def Info: Imagenes/mediciones/medicionRT.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
  [11 <./Imagenes/mediciones/medicionRDF.jpeg>]) [12 <./Imagenes/mediciones/medicionRT.jpeg>]
 \openout2 = `Contenido/6.Modelación.aux'.
@@ -1201,7 +1201,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,18n,85p,1026b,20619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb>
-Output written on main.pdf (36 pages, 16115791 bytes).
+Output written on main.pdf (36 pages, 16116114 bytes).
 PDF statistics:
  729 PDF objects out of 1000 (max. 8388607)
  152 named destinations out of 1000 (max. 500000)
