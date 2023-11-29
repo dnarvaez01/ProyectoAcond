@@ -26,16 +26,16 @@
 \contentsline {subsection}{\numberline {9.2}Sala de ensayo}{23}{subsection.9.2}%
 \contentsline {section}{\numberline {10}Resultados de recintos acondicionados}{24}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Salas de reunión}{24}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Sala de ensayo}{24}{subsection.10.2}%
-\contentsline {section}{\numberline {11}Medición de coeficiente de absorción de materiales}{25}{section.11}%
-\contentsline {section}{\numberline {12}Conclusiones}{27}{section.12}%
-\contentsline {section}{Referencias}{28}{section*.43}%
-\contentsline {section}{\numberline {13}Anexo}{29}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Presupuesto}{29}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2}Marco teórico}{29}{subsection.13.2}%
-\contentsline {subsubsection}{\numberline {13.2.1}Ruido de fondo (RdF)}{29}{subsubsection.13.2.1}%
-\contentsline {subsubsection}{\numberline {13.2.2}Tiempo de reverberación (TR)}{31}{subsubsection.13.2.2}%
-\contentsline {subsubsection}{\numberline {13.2.3}Medición de coeficiente de absorción en tubo de impedancia}{33}{subsubsection.13.2.3}%
-\contentsline {subsection}{\numberline {13.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{35}{subsection.13.3}%
-\contentsline {subsection}{\numberline {13.4}Mediciones de tiempo de reverberación}{36}{subsection.13.4}%
-\contentsline {subsection}{\numberline {13.5}Resultados curvas NR}{38}{subsection.13.5}%
+\contentsline {subsection}{\numberline {10.2}Sala de ensayo}{25}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Medición de coeficiente de absorción de materiales}{26}{section.11}%
+\contentsline {section}{\numberline {12}Conclusiones}{28}{section.12}%
+\contentsline {section}{Referencias}{29}{section*.46}%
+\contentsline {section}{\numberline {13}Anexo}{30}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Presupuesto}{30}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Marco teórico}{30}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Ruido de fondo (RdF)}{30}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Tiempo de reverberación (TR)}{32}{subsubsection.13.2.2}%
+\contentsline {subsubsection}{\numberline {13.2.3}Medición de coeficiente de absorción en tubo de impedancia}{34}{subsubsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{36}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Mediciones de tiempo de reverberación}{37}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Resultados curvas NR}{39}{subsection.13.5}%
