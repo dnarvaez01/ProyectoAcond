@@ -1,6 +1,31 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ackermann%
+, Brinkmann%
+\BCBL {}\ \BBA {} Weinzierl%
+}{%
+Ackermann%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+ackermann2023database}
+\APACinsertmetastar {%
+ackermann2023database}%
+\begin{APACrefauthors}%
+Ackermann, D.%
+, Brinkmann, F.%
+\BCBL {}\ \BBA {} Weinzierl, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {A Database with Directivities of Musical Instruments.} {A
+  database with directivities of musical instruments.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {AFMG Technologies GmbH}%
 }{%
 {AFMG Technologies GmbH}%

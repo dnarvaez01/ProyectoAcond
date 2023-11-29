@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -966,13 +966,13 @@ Overfull \hbox (33.52565pt too wide) in paragraph at lines 33--42
  [][] 
  []
 
-<Imagenes/OCV/OCV cuerdas.jpg, id=359, 1084.05pt x 610.28pt>
+<Imagenes/OCV/OCV cuerdas.jpg, id=361, 1084.05pt x 610.28pt>
 File: Imagenes/OCV/OCV cuerdas.jpg Graphic file (type jpg)
 <use Imagenes/OCV/OCV cuerdas.jpg>
 Package pdftex.def Info: Imagenes/OCV/OCV cuerdas.jpg  used on input line 64.
 (pdftex.def)             Requested size: 284.52756pt x 160.17761pt.
 [14 <./Imagenes/Modelacion/Sala ensayo Sketchup.jpg>]
-<Imagenes/OCV/OCV vientos.jpg, id=371, 1084.05pt x 610.28pt>
+<Imagenes/OCV/OCV vientos.jpg, id=374, 1084.05pt x 610.28pt>
 File: Imagenes/OCV/OCV vientos.jpg Graphic file (type jpg)
 <use Imagenes/OCV/OCV vientos.jpg>
 Package pdftex.def Info: Imagenes/OCV/OCV vientos.jpg  used on input line 70.
@@ -998,17 +998,17 @@ Overfull \hbox (44.9638pt too wide) in paragraph at lines 24--32
 \openout2 = `Contenido/8.ResultadosActual.aux'.
 
  (Contenido/8.ResultadosActual.tex
-<Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png, id=407, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png, id=410, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png  used on input line 7.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
-<Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png, id=408, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png, id=411, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png  used on input line 14.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
-<Imagenes/Resultados/Curvas NC-NR/NC ensayo.png, id=409, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NC ensayo.png, id=412, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NC ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NC ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC ensayo.png  used on input line 21.
@@ -1018,18 +1018,18 @@ Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NC ensayo.png  used on
 
 
  <./Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png> <./Imagenes/Resultados/Curvas NC-NR/NC reunion 2.png>]
-<Imagenes/DIN/DIN sala reunion 1 actual.png, id=421, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 1 actual.png, id=424, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 1 actual.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 1 actual.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 1 actual.png  used on input line 46.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
  [18 <./Imagenes/Resultados/Curvas NC-NR/NC ensayo.png>]
-<Imagenes/DIN/DIN sala reunion 2 actual.png, id=428, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 2 actual.png, id=431, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 2 actual.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 2 actual.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 2 actual.png  used on input line 53.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
-<Imagenes/Resultados/D50_ensayo.png, id=430, 619.26357pt x 422.68916pt>
+<Imagenes/Resultados/D50_ensayo.png, id=433, 619.26357pt x 422.68916pt>
 File: Imagenes/Resultados/D50_ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/D50_ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/D50_ensayo.png  used on input line 76.
@@ -1055,12 +1055,12 @@ Package pdftex.def Info: Imagenes/Resultados/D50_ensayo.png  used on input line 
 \openout2 = `Contenido/12.MedicionTubo.aux'.
 
  (Contenido/12.MedicionTubo.tex
-<Imagenes/Medición abs/materiales.jpeg, id=459, 1606.0pt x 903.375pt>
+<Imagenes/Medición abs/materiales.jpeg, id=462, 1606.0pt x 903.375pt>
 File: Imagenes/Medición abs/materiales.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/materiales.jpeg>
 Package pdftex.def Info: Imagenes/Medición abs/materiales.jpeg  used on input line 6.
 (pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
-<Imagenes/Medición abs/MATERIAL.png, id=461, 757.32938pt x 410.2828pt>
+<Imagenes/Medición abs/MATERIAL.png, id=464, 757.32938pt x 410.2828pt>
 File: Imagenes/Medición abs/MATERIAL.png Graphic file (type png)
 <use Imagenes/Medición abs/MATERIAL.png>
 Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line 15.
@@ -1073,12 +1073,12 @@ Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line
 
 
  <./Imagenes/Medición abs/materiales.jpeg> <./Imagenes/Medición abs/MATERIAL.png>]
-<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=476, 577.065pt x 300.03pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=479, 577.065pt x 300.03pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaMineral.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png  used on input line 48.
 (pdftex.def)             Requested size: 284.52756pt x 147.9316pt.
-<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=477, 553.851pt x 293.898pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=480, 553.851pt x 293.898pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png  used on input line 55.
@@ -1096,11 +1096,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--61
 
 
 ] (main.bbl
-LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 22.
+LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 47.
  (C:\Program Files\MiKTeX\tex/latex/cfr-lm\t1clm2jv.fd
 File: t1clm2jv.fd 2010/05/25 Fontinst v1.933 font definitions for T1/clm2jv.
 )
-Underfull \hbox (badness 2012) in paragraph at lines 134--146
+Underfull \hbox (badness 2012) in paragraph at lines 159--171
 \T1/clm2j/m/n/12 (Disponible en: []$\T1/clm2jv/m/n/12 http :// vinculacion [] .uach [] .cl / index [] .php / organizacion / quienes []
  []
 
@@ -1111,7 +1111,7 @@ Underfull \hbox (badness 2012) in paragraph at lines 134--146
 \openout2 = `Contenido/Anexo.aux'.
 
  (Contenido/Anexo.tex
-<Imagenes/MarcoTeorico/CurvaNC.png, id=511, 680.5425pt x 483.30562pt>
+<Imagenes/MarcoTeorico/CurvaNC.png, id=514, 680.5425pt x 483.30562pt>
 File: Imagenes/MarcoTeorico/CurvaNC.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/CurvaNC.png>
 Package pdftex.def Info: Imagenes/MarcoTeorico/CurvaNC.png  used on input line 41.
@@ -1119,74 +1119,74 @@ Package pdftex.def Info: Imagenes/MarcoTeorico/CurvaNC.png  used on input line 4
  [27
 
 ]
-<Imagenes/MarcoTeorico/NR.jpg, id=523, 387.4475pt x 391.4625pt>
+<Imagenes/MarcoTeorico/NR.jpg, id=526, 387.4475pt x 391.4625pt>
 File: Imagenes/MarcoTeorico/NR.jpg Graphic file (type jpg)
 <use Imagenes/MarcoTeorico/NR.jpg>
 Package pdftex.def Info: Imagenes/MarcoTeorico/NR.jpg  used on input line 75.
 (pdftex.def)             Requested size: 232.47029pt x 234.8793pt.
  [28 <./Imagenes/MarcoTeorico/CurvaNC.png>] [29 <./Imagenes/MarcoTeorico/NR.jpg>]
-<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=547, 579.66562pt x 239.39438pt>
+<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=550, 579.66562pt x 239.39438pt>
 File: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>
 Package pdftex.def Info: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png  used on input line 152.
 (pdftex.def)             Requested size: 289.83209pt x 119.69688pt.
  [30{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-<Imagenes/Medición abs/TuboImpedancia.jpeg, id=563, 1027.84pt x 770.88pt>
+<Imagenes/Medición abs/TuboImpedancia.jpeg, id=566, 1027.84pt x 770.88pt>
 File: Imagenes/Medición abs/TuboImpedancia.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/TuboImpedancia.jpeg>
 Package pdftex.def Info: Imagenes/Medición abs/TuboImpedancia.jpeg  used on input line 186.
 (pdftex.def)             Requested size: 284.52756pt x 213.39828pt.
  [31 <./Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>]
-<Imagenes/Medición abs/curva de referencia.png, id=573, 362.007pt x 217.467pt>
+<Imagenes/Medición abs/curva de referencia.png, id=576, 362.007pt x 217.467pt>
 File: Imagenes/Medición abs/curva de referencia.png Graphic file (type png)
 <use Imagenes/Medición abs/curva de referencia.png>
 Package pdftex.def Info: Imagenes/Medición abs/curva de referencia.png  used on input line 213.
 (pdftex.def)             Requested size: 284.52756pt x 170.92432pt.
  [32 <./Imagenes/Medición abs/TuboImpedancia.jpeg>]
-<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=581, 747.54282pt x 581.92406pt>
+<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=584, 747.54282pt x 581.92406pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 1.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 1.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 1.png  used on input line 222.
 (pdftex.def)             Requested size: 299.01183pt x 232.7655pt.
-<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=582, 574.39594pt x 587.19376pt>
+<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=585, 574.39594pt x 587.19376pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 2.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 2.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 2.png  used on input line 229.
 (pdftex.def)             Requested size: 229.75429pt x 234.87334pt.
  [33 <./Imagenes/Medición abs/curva de referencia.png> <./Imagenes/PosicionesRT/Posiciones Sala 1.png>]
-<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=590, 475.7775pt x 657.2053pt>
+<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=593, 475.7775pt x 657.2053pt>
 File: Imagenes/PosicionesRT/Posiciones Sala OCV.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala OCV.png>
 Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala OCV.png  used on input line 236.
 (pdftex.def)             Requested size: 190.30762pt x 262.87746pt.
-<Imagenes/Resultados/T60_Sala_reunion_1.png, id=591, 615.65005pt x 305.06973pt>
+<Imagenes/Resultados/T60_Sala_reunion_1.png, id=594, 615.65005pt x 305.06973pt>
 File: Imagenes/Resultados/T60_Sala_reunion_1.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_1.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_1.png  used on input line 245.
 (pdftex.def)             Requested size: 341.43306pt x 169.19466pt.
  [34 <./Imagenes/PosicionesRT/Posiciones Sala 2.png> <./Imagenes/PosicionesRT/Posiciones Sala OCV.png>]
-<Imagenes/Resultados/T60_Sala_reunion_2.png, id=600, 570.933pt x 281.853pt>
+<Imagenes/Resultados/T60_Sala_reunion_2.png, id=603, 570.933pt x 281.853pt>
 File: Imagenes/Resultados/T60_Sala_reunion_2.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_2.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_2.png  used on input line 252.
 (pdftex.def)             Requested size: 341.43306pt x 168.5626pt.
-<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=601, 615.65005pt x 369.84172pt>
+<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=604, 615.65005pt x 369.84172pt>
 File: Imagenes/Resultados/T60_Sala_de_ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_de_ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/T60_Sala_de_ensayo.png  used on input line 259.
 (pdftex.def)             Requested size: 341.43306pt x 205.11784pt.
-<Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png, id=602, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png, id=605, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR reunion 1.png  used on input line 267.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
  [35 <./Imagenes/Resultados/T60_Sala_reunion_1.png> <./Imagenes/Resultados/T60_Sala_reunion_2.png> <./Imagenes/Resultados/T60_Sala_de_ensayo.png>]
-<Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png, id=613, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png, id=616, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR reunion 2.png  used on input line 274.
 (pdftex.def)             Requested size: 284.52756pt x 194.86575pt.
-<Imagenes/Resultados/Curvas NC-NR/NR ensayo.png, id=614, 613.48196pt x 420.15971pt>
+<Imagenes/Resultados/Curvas NC-NR/NR ensayo.png, id=617, 613.48196pt x 420.15971pt>
 File: Imagenes/Resultados/Curvas NC-NR/NR ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/Curvas NC-NR/NR ensayo.png>
 Package pdftex.def Info: Imagenes/Resultados/Curvas NC-NR/NR ensayo.png  used on input line 281.
@@ -1204,17 +1204,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### semi simple group (level 1) entered at line 20 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 35810 strings out of 474586
- 824904 string characters out of 5755495
+ 35814 strings out of 474586
+ 825002 string characters out of 5755495
  1948558 words of memory out of 5000000
- 57115 multiletter control sequences out of 15000+600000
+ 57118 multiletter control sequences out of 15000+600000
  625553 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,18n,85p,1026b,20619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,18n,85p,1026b,20618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb>
-Output written on main.pdf (37 pages, 16344641 bytes).
+Output written on main.pdf (37 pages, 16345581 bytes).
 PDF statistics:
- 735 PDF objects out of 1000 (max. 8388607)
- 154 named destinations out of 1000 (max. 500000)
+ 738 PDF objects out of 1000 (max. 8388607)
+ 155 named destinations out of 1000 (max. 500000)
  536 words of extra memory for PDF output out of 10000 (max. 10000000)
 
