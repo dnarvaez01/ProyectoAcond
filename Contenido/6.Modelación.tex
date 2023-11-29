@@ -25,8 +25,6 @@ A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones m�
 \subsection{Modelación en EASE}
 A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{ease}, verificando las superficies y que estos estén bien cerrados para un correcto uso en en el programa. Para calibrar los modelos, se identificó los materiales de cada sala, para poder asignar los coeficientes de absorción a cada superficie correspondientemente. En la tabla \ref{tab:materiales-ease} se pueden observar los materiales que se le asignaran a las distintas superficies y su respectivo coeficiente de absorción, además de la fuente de donde se extrajeron estos datos. Las superficies cuyo material es desconocido, fueron despejadas desde la ecuación \ref{eq:T60}.
 
-%tabla con coeficientes y fuente bibliográfica.
-
 
 \begin{table}[H]
     \centering
@@ -54,3 +52,21 @@ A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{
     \textbf{Absorción $\alpha$} & $0.31$ & $0.51$ & $0.73$ & $0.80$ & $0.82$ & $0.82$ \\ \hline
     \end{tabular}
 \end{table}
+
+\noindent Para simular a los músicos tocando en la sala de ensayo, se ingresó archivos GLL de
+cada instrumento que compone la orquesta de cámara que ensaya en el lugar.
+%insertar tabla con datos de cada instrumento
+Estos instrumentos se ubicaron como se muestra en la figura ..., distribución que se estableció,
+a partir de imágenes de la orquesta de cámara ensayando en el lugar.(ver figura ...)
+%ingresar imagen de distribución de instrumento en el EASE.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=10cm]{Imagenes/OCV/OCV cuerdas.jpg}
+    \caption{Ensayo de cuerdas frotadas de orquesta de cámara en la sala de ensayo}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=10cm]{Imagenes/OCV/OCV vientos.jpg}
+    \caption{Ensayo de bronces y maderas de la orquesta de cámara en la sala de ensayo}
+\end{figure}
