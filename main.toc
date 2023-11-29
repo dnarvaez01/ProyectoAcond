@@ -20,6 +20,7 @@
 \contentsline {subsection}{\numberline {8.2}Tiempo de reverberación}{17}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Salas de reunión}{17}{subsubsection.8.2.1}%
 \contentsline {subsubsection}{\numberline {8.2.2}Sala de ensayo}{19}{subsubsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.3}Análisis modal}{19}{subsection.8.3}%
 \contentsline {section}{\numberline {9}Propuesta}{20}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Salas de reunión}{20}{subsection.9.1}%
 \contentsline {subsubsection}{\numberline {9.1.1}Nube}{20}{subsubsection.9.1.1}%
@@ -33,6 +34,6 @@
 \contentsline {subsubsection}{\numberline {12.2.1}Ruido de fondo (RdF)}{25}{subsubsection.12.2.1}%
 \contentsline {subsubsection}{\numberline {12.2.2}Tiempo de reverberación (TR)}{27}{subsubsection.12.2.2}%
 \contentsline {subsubsection}{\numberline {12.2.3}Medición de coeficiente de absorción en tubo de impedancia}{29}{subsubsection.12.2.3}%
-\contentsline {subsection}{\numberline {12.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{30}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.3}Posiciones de micrófono y fuente en mediciones de tiempo de reverberación}{31}{subsection.12.3}%
 \contentsline {subsection}{\numberline {12.4}Mediciones de tiempo de reverberación}{32}{subsection.12.4}%
 \contentsline {subsection}{\numberline {12.5}Resultados curvas NR}{34}{subsection.12.5}%
