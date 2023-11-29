@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  29 NOV 2023 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1068,48 +1068,54 @@ Package pdftex.def Info: Imagenes/Propuesta/propuesta_reunion2.jpg  used on inpu
 
 
 
- <./Imagenes/Propuesta/propuesta_reunion1.jpg>]) [23 <./Imagenes/Propuesta/propuesta_reunion2.jpg>]
+ <./Imagenes/Propuesta/propuesta_reunion1.jpg>]
+<Imagenes/Propuesta/Sala ensayo sin paneles.jpg, id=489, 720.89325pt x 536.60475pt>
+File: Imagenes/Propuesta/Sala ensayo sin paneles.jpg Graphic file (type jpg)
+<use Imagenes/Propuesta/Sala ensayo sin paneles.jpg>
+Package pdftex.def Info: Imagenes/Propuesta/Sala ensayo sin paneles.jpg  used on input line 43.
+(pdftex.def)             Requested size: 284.52756pt x 211.7887pt.
+) [23 <./Imagenes/Propuesta/propuesta_reunion2.jpg>] [24 <./Imagenes/Propuesta/Sala ensayo sin paneles.jpg>]
 \openout2 = `Contenido/10.ResultadosAcond.aux'.
 
  (Contenido/10.ResultadosAcond.tex
-<Imagenes/DIN/DIN sala reunion 1 comparacion.png, id=494, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 1 comparacion.png, id=500, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 1 comparacion.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 1 comparacion.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 1 comparacion.png  used on input line 6.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
-<Imagenes/DIN/DIN sala reunion 2 comparacion.png, id=495, 503.7219pt x 421.3341pt>
+<Imagenes/DIN/DIN sala reunion 2 comparacion.png, id=501, 503.7219pt x 421.3341pt>
 File: Imagenes/DIN/DIN sala reunion 2 comparacion.png Graphic file (type png)
 <use Imagenes/DIN/DIN sala reunion 2 comparacion.png>
 Package pdftex.def Info: Imagenes/DIN/DIN sala reunion 2 comparacion.png  used on input line 12.
 (pdftex.def)             Requested size: 284.52756pt x 237.98991pt.
- [24
+ [25
 
 
 
  <./Imagenes/DIN/DIN sala reunion 1 comparacion.png> <./Imagenes/DIN/DIN sala reunion 2 comparacion.png>]
-<Imagenes/Resultados/D50_comparacion.png, id=504, 619.26357pt x 422.68916pt>
+<Imagenes/Resultados/D50_comparacion.png, id=511, 619.26357pt x 422.68916pt>
 File: Imagenes/Resultados/D50_comparacion.png Graphic file (type png)
 <use Imagenes/Resultados/D50_comparacion.png>
 Package pdftex.def Info: Imagenes/Resultados/D50_comparacion.png  used on input line 35.
 (pdftex.def)             Requested size: 284.52756pt x 194.20718pt.
-) [25 <./Imagenes/Resultados/D50_comparacion.png>]
+) [26 <./Imagenes/Resultados/D50_comparacion.png>]
 \openout2 = `Contenido/11.Presupuesto.aux'.
 
  (Contenido/11.Presupuesto.tex)
 \openout2 = `Contenido/12.MedicionTubo.aux'.
 
  (Contenido/12.MedicionTubo.tex
-<Imagenes/Medición abs/materiales.jpeg, id=516, 1606.0pt x 903.375pt>
+<Imagenes/Medición abs/materiales.jpeg, id=522, 1606.0pt x 903.375pt>
 File: Imagenes/Medición abs/materiales.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/materiales.jpeg>
 Package pdftex.def Info: Imagenes/Medición abs/materiales.jpeg  used on input line 6.
 (pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
-<Imagenes/Medición abs/MATERIAL.png, id=518, 757.32938pt x 410.2828pt>
+<Imagenes/Medición abs/MATERIAL.png, id=524, 757.32938pt x 410.2828pt>
 File: Imagenes/Medición abs/MATERIAL.png Graphic file (type png)
 <use Imagenes/Medición abs/MATERIAL.png>
 Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line 15.
 (pdftex.def)             Requested size: 227.62204pt x 123.31116pt.
- [26
+ [27
 
 
 
@@ -1117,17 +1123,17 @@ Package pdftex.def Info: Imagenes/Medición abs/MATERIAL.png  used on input line
 
 
  <./Imagenes/Medición abs/materiales.jpeg> <./Imagenes/Medición abs/MATERIAL.png>]
-<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=533, 577.065pt x 300.03pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaMineral.png, id=539, 577.065pt x 300.03pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaMineral.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaMineral.png  used on input line 48.
 (pdftex.def)             Requested size: 284.52756pt x 147.9316pt.
-<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=534, 553.851pt x 293.898pt>
+<Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png, id=540, 553.851pt x 293.898pt>
 File: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png Graphic file (type png)
 <use Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>
 Package pdftex.def Info: Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png  used on input line 55.
 (pdftex.def)             Requested size: 284.52756pt x 150.98021pt.
-) [27 <./Imagenes/Medición abs/Grafico coef.abs LanaMineral.png> <./Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>]
+) [28 <./Imagenes/Medición abs/Grafico coef.abs LanaMineral.png> <./Imagenes/Medición abs/Grafico coef.abs LanaVidrio.png>]
 \openout2 = `Contenido/Conclusion.aux'.
 
  (Contenido/Conclusion.tex)
@@ -1135,7 +1141,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--61
 
  []
 
-[28
+[29
 
 
 
@@ -1148,124 +1154,118 @@ Underfull \hbox (badness 2012) in paragraph at lines 178--190
 \T1/clm2j/m/n/12 (Disponible en: []$\T1/clm2jv/m/n/12 http :// vinculacion [] .uach [] .cl / index [] .php / organizacion / quienes []
  []
 
-) [29
+) [30
 
 
 ]
 \openout2 = `Contenido/Anexo.aux'.
 
  (Contenido/Anexo.tex
-<Imagenes/MarcoTeorico/CurvaNC.png, id=570, 680.5425pt x 483.30562pt>
+<Imagenes/MarcoTeorico/CurvaNC.png, id=576, 680.5425pt x 483.30562pt>
 File: Imagenes/MarcoTeorico/CurvaNC.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/CurvaNC.png>
-Package pdftex.def Info: Imagenes/MarcoTeorico/CurvaNC.png  used on input line 41.
+Package pdftex.def Info: Imagenes/MarcoTeorico/CurvaNC.png  used on input line 38.
 (pdftex.def)             Requested size: 227.62204pt x 161.65211pt.
- [30
+ [31
 
-]
-<Imagenes/MarcoTeorico/NR.jpg, id=582, 387.4475pt x 391.4625pt>
-File: Imagenes/MarcoTeorico/NR.jpg Graphic file (type jpg)
-<use Imagenes/MarcoTeorico/NR.jpg>
-Package pdftex.def Info: Imagenes/MarcoTeorico/NR.jpg  used on input line 75.
-(pdftex.def)             Requested size: 232.47029pt x 234.8793pt.
- [31 <./Imagenes/MarcoTeorico/CurvaNC.png>] [32 <./Imagenes/MarcoTeorico/NR.jpg>]
-<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=607, 579.66562pt x 239.39438pt>
+] [32 <./Imagenes/MarcoTeorico/CurvaNC.png>]
+<Imagenes/MarcoTeorico/Recomendaciones C50-C80.png, id=602, 579.66562pt x 239.39438pt>
 File: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png Graphic file (type png)
 <use Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>
-Package pdftex.def Info: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png  used on input line 152.
+Package pdftex.def Info: Imagenes/MarcoTeorico/Recomendaciones C50-C80.png  used on input line 116.
 (pdftex.def)             Requested size: 289.83209pt x 119.69688pt.
  [33{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-<Imagenes/MarcoTeorico/respuesta_frecuencias.jpg, id=628, 630.55576pt x 383.63326pt>
+<Imagenes/MarcoTeorico/respuesta_frecuencias.jpg, id=623, 630.55576pt x 383.63326pt>
 File: Imagenes/MarcoTeorico/respuesta_frecuencias.jpg Graphic file (type jpg)
 <use Imagenes/MarcoTeorico/respuesta_frecuencias.jpg>
-Package pdftex.def Info: Imagenes/MarcoTeorico/respuesta_frecuencias.jpg  used on input line 190.
+Package pdftex.def Info: Imagenes/MarcoTeorico/respuesta_frecuencias.jpg  used on input line 154.
 (pdftex.def)             Requested size: 284.52756pt x 173.11337pt.
  [34 <./Imagenes/MarcoTeorico/Recomendaciones C50-C80.png>]
-<Imagenes/Medición abs/TuboImpedancia.jpeg, id=637, 1027.84pt x 770.88pt>
+<Imagenes/Medición abs/TuboImpedancia.jpeg, id=632, 1027.84pt x 770.88pt>
 File: Imagenes/Medición abs/TuboImpedancia.jpeg Graphic file (type jpg)
 <use Imagenes/Medición abs/TuboImpedancia.jpeg>
-Package pdftex.def Info: Imagenes/Medición abs/TuboImpedancia.jpeg  used on input line 199.
+Package pdftex.def Info: Imagenes/Medición abs/TuboImpedancia.jpeg  used on input line 163.
 (pdftex.def)             Requested size: 284.52756pt x 213.39828pt.
  [35 <./Imagenes/MarcoTeorico/respuesta_frecuencias.jpg> <./Imagenes/Medición abs/TuboImpedancia.jpeg>]
-<Imagenes/Medición abs/curva de referencia.png, id=648, 362.007pt x 217.467pt>
+<Imagenes/Medición abs/curva de referencia.png, id=643, 362.007pt x 217.467pt>
 File: Imagenes/Medición abs/curva de referencia.png Graphic file (type png)
 <use Imagenes/Medición abs/curva de referencia.png>
-Package pdftex.def Info: Imagenes/Medición abs/curva de referencia.png  used on input line 226.
+Package pdftex.def Info: Imagenes/Medición abs/curva de referencia.png  used on input line 190.
 (pdftex.def)             Requested size: 284.52756pt x 170.92432pt.
-<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=649, 747.54282pt x 581.92406pt>
+<Imagenes/PosicionesRT/Posiciones Sala 1.png, id=644, 747.54282pt x 581.92406pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 1.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 1.png>
-Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 1.png  used on input line 235.
+Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 1.png  used on input line 199.
 (pdftex.def)             Requested size: 299.01183pt x 232.7655pt.
  [36 <./Imagenes/Medición abs/curva de referencia.png>]
-<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=657, 574.39594pt x 587.19376pt>
+<Imagenes/PosicionesRT/Posiciones Sala 2.png, id=652, 574.39594pt x 587.19376pt>
 File: Imagenes/PosicionesRT/Posiciones Sala 2.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala 2.png>
-Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 2.png  used on input line 242.
+Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala 2.png  used on input line 206.
 (pdftex.def)             Requested size: 229.75429pt x 234.87334pt.
-<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=658, 475.7775pt x 657.2053pt>
+<Imagenes/PosicionesRT/Posiciones Sala OCV.png, id=653, 475.7775pt x 657.2053pt>
 File: Imagenes/PosicionesRT/Posiciones Sala OCV.png Graphic file (type png)
 <use Imagenes/PosicionesRT/Posiciones Sala OCV.png>
-Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala OCV.png  used on input line 249.
+Package pdftex.def Info: Imagenes/PosicionesRT/Posiciones Sala OCV.png  used on input line 213.
 (pdftex.def)             Requested size: 190.30762pt x 262.87746pt.
  [37 <./Imagenes/PosicionesRT/Posiciones Sala 1.png> <./Imagenes/PosicionesRT/Posiciones Sala 2.png>]
-<Imagenes/Resultados/T60_Sala_reunion_1.png, id=668, 615.65005pt x 305.06973pt>
+<Imagenes/Resultados/T60_Sala_reunion_1.png, id=663, 615.65005pt x 305.06973pt>
 File: Imagenes/Resultados/T60_Sala_reunion_1.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_1.png>
-Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_1.png  used on input line 258.
+Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_1.png  used on input line 222.
 (pdftex.def)             Requested size: 341.43306pt x 169.19466pt.
-<Imagenes/Resultados/T60_Sala_reunion_2.png, id=669, 570.933pt x 281.853pt>
+<Imagenes/Resultados/T60_Sala_reunion_2.png, id=664, 570.933pt x 281.853pt>
 File: Imagenes/Resultados/T60_Sala_reunion_2.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_reunion_2.png>
-Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_2.png  used on input line 265.
+Package pdftex.def Info: Imagenes/Resultados/T60_Sala_reunion_2.png  used on input line 229.
 (pdftex.def)             Requested size: 341.43306pt x 168.5626pt.
  [38 <./Imagenes/PosicionesRT/Posiciones Sala OCV.png> <./Imagenes/Resultados/T60_Sala_reunion_1.png>]
-<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=678, 615.65005pt x 369.84172pt>
+<Imagenes/Resultados/T60_Sala_de_ensayo.png, id=673, 615.65005pt x 369.84172pt>
 File: Imagenes/Resultados/T60_Sala_de_ensayo.png Graphic file (type png)
 <use Imagenes/Resultados/T60_Sala_de_ensayo.png>
-Package pdftex.def Info: Imagenes/Resultados/T60_Sala_de_ensayo.png  used on input line 272.
+Package pdftex.def Info: Imagenes/Resultados/T60_Sala_de_ensayo.png  used on input line 236.
 (pdftex.def)             Requested size: 341.43306pt x 205.11784pt.
-<Imagenes/STI actual/STI_Reunion1_SinAcond.jpg, id=679, 797.98125pt x 536.0025pt>
+<Imagenes/STI actual/STI_Reunion1_SinAcond.jpg, id=674, 797.98125pt x 536.0025pt>
 File: Imagenes/STI actual/STI_Reunion1_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STI_Reunion1_SinAcond.jpg>
-Package pdftex.def Info: Imagenes/STI actual/STI_Reunion1_SinAcond.jpg  used on input line 280.
+Package pdftex.def Info: Imagenes/STI actual/STI_Reunion1_SinAcond.jpg  used on input line 244.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg, id=680, 615.29875pt x 232.87pt>
+<Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg, id=675, 615.29875pt x 232.87pt>
 File: Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg>
-Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg  used on input line 286.
+Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg  used on input line 250.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
  [39 <./Imagenes/Resultados/T60_Sala_reunion_2.png> <./Imagenes/Resultados/T60_Sala_de_ensayo.png>]
-<Imagenes/STI actual/STI_Reunion2_SinAcond.jpg, id=689, 797.98125pt x 536.0025pt>
+<Imagenes/STI actual/STI_Reunion2_SinAcond.jpg, id=684, 797.98125pt x 536.0025pt>
 File: Imagenes/STI actual/STI_Reunion2_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STI_Reunion2_SinAcond.jpg>
-Package pdftex.def Info: Imagenes/STI actual/STI_Reunion2_SinAcond.jpg  used on input line 292.
+Package pdftex.def Info: Imagenes/STI actual/STI_Reunion2_SinAcond.jpg  used on input line 256.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg, id=690, 615.29875pt x 232.87pt>
+<Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg, id=685, 615.29875pt x 232.87pt>
 File: Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg>
-Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg  used on input line 298.
+Package pdftex.def Info: Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg  used on input line 262.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
  [40 <./Imagenes/STI actual/STI_Reunion1_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion1_SinAcond.jpg>]
-<Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg, id=697, 797.98125pt x 536.0025pt>
+<Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg, id=692, 797.98125pt x 536.0025pt>
 File: Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg>
-Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg  used on input line 306.
+Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg  used on input line 270.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
-<Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg, id=698, 615.29875pt x 232.87pt>
+<Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg, id=693, 615.29875pt x 232.87pt>
 File: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>
-Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 312.
+Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 276.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
  [41 <./Imagenes/STI actual/STI_Reunion2_SinAcond.jpg> <./Imagenes/STI actual/STIdist_Reunion2_SinAcond.jpg>]
-<Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg, id=705, 797.98125pt x 536.0025pt>
+<Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg, id=700, 797.98125pt x 536.0025pt>
 File: Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg>
-Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg  used on input line 319.
+Package pdftex.def Info: Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg  used on input line 283.
 (pdftex.def)             Requested size: 341.43306pt x 229.33974pt.
 File: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg Graphic file (type jpg)
 <use Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>
-Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 325.
+Package pdftex.def Info: Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg  used on input line 289.
 (pdftex.def)             Requested size: 341.43306pt x 129.22305pt.
  [42 <./Imagenes/STI acondicionado/STI_Reunion1_ConAcond.jpg> <./Imagenes/STI acondicionado/STIdist_Reunion1_ConAcond.jpg>]) [43 <./Imagenes/STI acondicionado/STI_Reunion2_ConAcond.jpg>] (main.aux (Portada.aux) (Contenido/1.Introduccion.aux) (Contenido/3.Antecedentes.aux) (Contenido/4.Planificacion.aux) (Contenido/5.Metodologia.aux) (Contenido/6.Modelación.aux) (Contenido/7.Recomendaciones.aux) (Contenido/8.ResultadosActual.aux) (Contenido/9.Propuesta.aux) (Contenido/10.ResultadosAcond.aux) (Contenido/11.Presupuesto.aux) (Contenido/12.MedicionTubo.aux) (Contenido/Conclusion.aux) (Contenido/Anexo.aux))
  ***********
@@ -1273,24 +1273,24 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0363C47A0527031C347E7B0D0B8F4407;7493.
+(rerunfilecheck)             Checksum: 957C22201C9EA31D9D148AF22F31DC2D;7493.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 20 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 35965 strings out of 474586
- 830808 string characters out of 5755495
+ 35962 strings out of 474586
+ 830901 string characters out of 5755495
  1948558 words of memory out of 5000000
- 57242 multiletter control sequences out of 15000+600000
+ 57240 multiletter control sequences out of 15000+600000
  625553 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,18n,85p,1026b,20618s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,18n,85p,1026b,20540s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb>
-Output written on main.pdf (43 pages, 15363229 bytes).
+Output written on main.pdf (43 pages, 15451780 bytes).
 PDF statistics:
- 830 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
+ 825 PDF objects out of 1000 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
  617 words of extra memory for PDF output out of 10000 (max. 10000000)
 

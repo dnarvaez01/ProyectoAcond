@@ -31,18 +31,15 @@
 
 \subsection{Marco teórico}
 \subsubsection{Ruido de fondo (RdF)}
-El ruido de fondo es el sonido presente en una sala cuando no hay actividad o no está presente la fuente a evaluar. Este ruido puede ser causado por sistemas de climatización, instalaciones eléctricas o hidráulicas, e incluso ruido externo como el tráfico.
-
-\begin{itemize}
-
-    \item \textbf{Curvas NC}: son curvas de referencia que representan los límites de ruido aceptables en un espacio según su uso. Un recinto se considera que cumple una especificación NC determinada (por ejemplo, NC-$15$, NC-$20$, etc.) cuando los niveles de ruido de fondo, medidos en diferentes bandas de frecuencia, están por debajo de la curva NC correspondiente para todas las frecuencias entre $63$ Hz y $8$ kHz (ver figura \ref{fig:curvas NC}).\cite{carrion1990diseno}
+El ruido de fondo es el sonido presente en una sala cuando no hay actividad o no está presente la fuente a evaluar. Este ruido puede ser causado por sistemas de climatización, instalaciones eléctricas o hidráulicas, e incluso ruido externo como el tráfico.\\
+\textbf{Curvas NC}: son curvas de referencia que representan los límites de ruido aceptables en un espacio según su uso. Un recinto se considera que cumple una especificación NC determinada (por ejemplo, NC-$15$, NC-$20$, etc.) cuando los niveles de ruido de fondo, medidos en diferentes bandas de frecuencia, están por debajo de la curva NC correspondiente para todas las frecuencias entre $63$ Hz y $8$ kHz (ver figura \ref{fig:curvas NC}).\cite{carrion1990diseno}
     \begin{figure}[H]
         \centering
-        \includegraphics[width=8cm]{Imagenes/MarcoTeorico/CurvaNC.png}
+        \includegraphics[width=8cm]{Imagenes/MarcoTeorico/CurvaNC.png}z
         \caption{Curvas NC (``Noise Criteria'')}
         \label{fig:curvas NC}
     \end{figure}
-    En la tabla \ref{tab:recomendaciones Curva NC} se muestran las curvas NC recomendadas para diferentes tipos de recinto, junto con su equivalencia en dBA.
+ En la tabla \ref{tab:recomendaciones Curva NC} se muestran las curvas NC recomendadas para diferentes tipos de recinto, junto con su equivalencia en dBA.
     \begin{table}[H]
         \centering
         \caption{Curvas NC recomendadas y niveles de ruido de fondo equivalentes en dBA }
@@ -66,40 +63,7 @@ El ruido de fondo es el sonido presente en una sala cuando no hay actividad o no
         Salas de conciertos y teatros de ópera & $20$ - $25$ \\ \hline
         Estudios de registro y reproducción sonora & $15$ - $20$ \\ \hline
         \end{tabular}
-    \end{table}
-
-    \item \textbf{Curvas NR}: Las curvas NR son estándares que muestran los niveles de ruido de fondo aceptables en recintos. Se dividen en números NR (como NR-15, NR-25, NR-35), que indican el nivel máximo de ruido permitido en decibelios (dB) según el propósito del espacio.
-En la figura \ref{NR}, se muestran las curvas NR de evaluación de ruido y en la tabla \ref{tabla} , figuran los valores recomendados del índice de NR para diferentes locales.\cite{Recuero}
-
-\begin{figure}[H]
-    \centering \includegraphics[scale=0.6]{Imagenes/MarcoTeorico/NR.jpg}
-    \caption{Curvas NR}
-    \label{NR}
-\end{figure}
-
-\begin{table}[H]
-\centering
-\caption{Valores recomendados de índice NR para distintos locales.}
-\label{Valores recomendados de NR}
-\resizebox{15 cm}{!}{%
-\begin{tabular}{|l|c|}
-\hline
-\multicolumn{1}{|c|}{\textbf{Tipos de recintos}}                                                       & \textbf{Rangos de niveles NR} \\ \hline
-Talleres                                                                                               & $60$ - $70$                       \\ \hline
-Oficinas mecanizadas                                                                                   & $50$ - $55$                       \\ \hline
-Gimnasios, piscinas, salas de deporte, pasillos                                                                  & $40$ - $50$                       \\ \hline
-Restaurantes, bares y cafeterías                                                                       & $35$ - $45$                       \\ \hline
-Despachos, bibliotecas, salas de justicias                                                             & $30$ - $40$                       \\ \hline
-\begin{tabular}[c]{@{}l@{}}Cines, hospitales, iglesias, pequeñas salas y aulas de conferencias \end{tabular} & $25$ - $35$                       \\ \hline
-\begin{tabular}[c]{@{}l@{}}Estudio de televisión, grandes salas de conferencias\end{tabular} & $20$ - $30$                       \\ \hline
-Sala de conciertos, teatros                                                                            & $20$ - $25$                       \\ \hline
-Clínicas, recintos para audiometrías                                                                   & $10$ - $20$                       \\ \hline
-\end{tabular}%
-}
-\label{tabla}
-\end{table}
-    
-\end{itemize}
+    \end{table}    
 
 \subsubsection{Tiempo de reverberación (TR)}
 El tiempo de reverberación $T_{60}$ es el tiempo que tarda el sonido en decaer $60$ dB en un espacio cerrado. Este parámetro es importante en el diseño de un sistema de refuerzo sonoro, ya que afecta la claridad, inteligibilidad y calidad del sonido en un recinto.
