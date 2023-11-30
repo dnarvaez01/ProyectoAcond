@@ -1,7 +1,7 @@
 \section{Resultados del estado actual de los recintos}
 A continuación se muestran los resultados de las mediciones y parámetros más específicos del ruido de fondo y tiempo de reverberación, como curvas NC y NR, claridad ($C_{50speech}$, $C_{80}$) y definición $D_{50}$.
 \subsection{Ruido de fondo}
-En las figuras \ref{fig: Curvas NC sala 1}, \ref{fig: Curvas NC sala 2} y \ref{fig: Curvas NC sala de ensayo}, se pueden observar los valores obtenidos del ruido de fondo en bandas de octava con su respectiva curva NC más cercana.
+En las Figuras \ref{fig: Curvas NC sala 1}, \ref{fig: Curvas NC sala 2} y \ref{fig: Curvas NC sala de ensayo}, se pueden observar los valores obtenidos del ruido de fondo en bandas de octava con su respectiva curva NC más cercana.
     \begin{figure}[H]
         \centering
         \includegraphics[width=10cm]{Imagenes/Resultados/Curvas NC-NR/NC reunion 1.png}
@@ -40,7 +40,8 @@ Según las recomendaciones mencionadas en la sección \ref{secc: Recomendaciones
 
 \subsection{Tiempo de reverberación}
 \subsubsection{Salas de reunión}
-A partir del tiempo de reverberación medido (ver anexo \ref{subseccc: mediciones tiempo de reverberación}), se obtienen los gráficos de tiempo de reverberación descritos en la norma DIN$18041$ para las salas de reunión.
+A partir del tiempo de reverberación medido (ver Anexo \ref{subseccc: mediciones tiempo de reverberación})
+y de describen según indica la norma DIN$18041$ para las salas de reunión (recinto A2) de un volumen de 114 y 101 $m^3$, para la sala de reunión 1 y 2 respectivamente.
     \begin{figure}[H]
         \centering
         \includegraphics[width=10cm]{Imagenes/DIN/DIN sala reunion 1 actual.png}
@@ -54,7 +55,7 @@ A partir del tiempo de reverberación medido (ver anexo \ref{subseccc: medicione
         \caption{Tiempo de reverberación Sala de reunión 2}
         \label{fig:Ttarget sala de reunion 2}
     \end{figure}
-A continuación se muestra una tabla con los valores obtenidos a partir de las mediciones realizadas. Los gráficos más detallados se encuentran en el anexo.
+A continuación, se muestra una tabla con los valores obtenidos a partir de las mediciones realizadas. Los gráficos detallados de STI se encuentran en el Anexo \ref{subsecc: STI salas actual}.
     %insertar cual anexo
     \begin{table}[H]
         \centering
@@ -69,14 +70,8 @@ A continuación se muestra una tabla con los valores obtenidos a partir de las m
         \label{tab: cumplimiento parametros RT salas de reuniones}
     \end{table}
 \subsubsection{Sala de ensayo}
-    Para la sala de ensayo, se determinaron parámetros a partir del tiempo de reverberación, parámetros que se analizaron su cumplimiento con recomendaciones mencionadas en la sección \ref{secc: Recomendaciones}.
-    Se obtuvo el siguiente gráfico de definición $D_{50}$:
-    \begin{figure}[H]
-        \centering
-        \includegraphics[width=10cm]{Imagenes/Resultados/D50_actual.png}
-        \caption{$D_{50}$ de sala de ensayo}
-    \end{figure}
-    En la tabla \ref{tab:parametros acusticos sala ensayo} se puede observar el estado actual de la sala de ensayo determinando su $RT_{mid}$, $C_{80}$ y $D_{50}$.
+    Para la sala de ensayo, se analizó los parámetros descritor en la sección \ref{secc: Recomendaciones}.
+    En la Tabla \ref{tab:parametros acusticos sala ensayo} se puede observar el estado actual de la sala de ensayo determinando su $RT_{mid}$, $C_{80}$ y $D_{50}$.
     \begin{table}[H]
         \centering
         \begin{tabular}{|l|c|c|}
@@ -89,15 +84,19 @@ A continuación se muestra una tabla con los valores obtenidos a partir de las m
         \caption{Parámetros acústicos de la sala de ensayo y su estado}
         \label{tab:parametros acusticos sala ensayo}
     \end{table}
+    
+    Además, se obtuvo el siguiente gráfico de definición $D_{50}$:
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=10cm]{Imagenes/Resultados/D50_actual.png}
+        \caption{$D_{50}$ de sala de ensayo}
+    \end{figure}
+
+    Como se puede ver, la sala de ensayo no cumple con ninguno de los valores objetivos establecidos en la sexxión \ref{secc: Recomendaciones}.
+
 \subsection{Análisis modal}
-Para observar el estado actual de la sala de ensayo de mejor manera, se hizo un análisis modal. En la figura \ref{fig: distribucion modal} se puede observar la distribución modal de la sala.
-%insertar imagen de distribución modal
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=10cm]{Imagenes/Modos/densidad modal.png}
-    \caption{Distribución modal de la sala de ensayo}
-    \label{fig: distribucion modal}
-\end{figure}
+Para evaluar el estado actual de la sala de ensayo de manera más precisa, debido a que su uso será para música de orquesta,
+se realizó un análisis modal (Figura \ref{fig:modo a los 48hz}). 
 
 \begin{figure}[H]
     \centering
@@ -105,3 +104,26 @@ Para observar el estado actual de la sala de ensayo de mejor manera, se hizo un 
     \caption{Modo los 48hz}
     \label{fig:modo a los 48hz}
 \end{figure}
+
+Según el criterio de Bonello, la densidad modal por frecuencias de banda de tercio de octava debe ser igual o aumentar en la frecuencia siguiente.
+En la Figura \ref{fig: distribucion modal} se puede observar la distribución modal de la sala de ensayo, que, en base al criterio de Bonello, indica un problema con los modos normales cercanos a la frecuencia de 31.5 Hz
+%insertar imagen de distribución modal
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=10cm]{Imagenes/Modos/densidad modal.png}
+    \caption{Distribución modal de la sala de ensayo}
+    \label{fig: distribucion modal}
+\end{figure}
+
+Sin embargo, los instrumentos utilizados por la OCV no se encuentran en rangos cercanos a la frecuencia de 31.5 Hz (Figura \ref{fig: rangos de frecuencias instrumentos}).
+Por lo que no es necesario un mayor análisis y acondicionamiento acústico en bajas frecuencias.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=6cm]{Imagenes/Modos/RangoInstrumentos.png}
+    \caption{Rangos de frecuencias de distintos instrumentos}
+    \label{fig: rangos de frecuencias instrumentos}
+\end{figure}
+
+

@@ -1,6 +1,6 @@
 \section{Modelación}
 \subsection{Modelación en SketchUp}
-A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones más detalladas de cada sala, se modeló las tres salas en el software SketchUp \cite{sketchup}, resultando los modelos de las figuras \ref{fig: sketchup sala 1}, \ref{fig: sketchup sala 2} y \ref{fig: sketchup sala de ensayo}, tomando en consideración muebles que utilizaban mayor volumen en las salas de reuniones. 
+A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones más específicas de cada sala tomandas en terreno, se modeló las tres salas en el software SketchUp \cite{sketchup}, resultando los modelos de las Figuras \ref{fig: sketchup sala 1}, \ref{fig: sketchup sala 2} y \ref{fig: sketchup sala de ensayo}. Además, se tomó en consideración los muebles que utilizaban mayor volumen en las salas de reuniones. 
 \begin{figure}[H]
     \centering
     \includegraphics[width=8cm]{Imagenes/Modelacion/Sala 1 Sketchup.png}
@@ -23,7 +23,7 @@ A partir de los planos de la figura \ref{fig: planos CAD} y de las mediciones m�
 \end{figure}
 
 \subsection{Modelación en EASE}
-A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{ease}, verificando las superficies y que estos estén bien cerrados para un correcto uso en en el programa. Para calibrar los modelos, se identificó los materiales de cada sala, para poder asignar los coeficientes de absorción a cada superficie correspondientemente. En la tabla \ref{tab:materiales-ease} se pueden observar los materiales que se le asignaran a las distintas superficies y su respectivo coeficiente de absorción, además de la fuente de donde se extrajeron estos datos. Las superficies cuyo material es desconocido, fueron despejadas desde la ecuación \ref{eq:T60}.
+A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{ease}, verificando las superficies y que estos estén bien cerrados para un correcto uso en en el programa. Para calibrar los modelos, se identificó los materiales de cada sala, para poder asignar los coeficientes de absorción a cada superficie correspondientemente. En la Tabla \ref{tab:materiales-ease} se pueden observar los materiales que se le asignaran a las distintas superficies y su respectivo coeficiente de absorción, además de la fuente de donde se extrajeron estos datos. Las superficies cuyo material es desconocido, fueron despejadas desde la ecuación \ref{eq:T60}.
 
 
 \begin{table}[H]
@@ -41,7 +41,8 @@ A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{
     \end{tabular}
 \end{table}
 
-\noindent Para tener modelar la sala ocupada se consideró el siguiente coeficiente de absorción por persona:
+\noindent Para tener modelar la sala ocupada se consideró el siguiente coeficiente de absorción por persona,
+que corresponde a una persona sentada en una silla:
 \begin{table}[H]
     \centering
     \caption{Coeficiente de absorción de una persona sentada de EASE}
@@ -53,28 +54,30 @@ A partir de los modelos en SketchUp, estos se importaron al software EASE \cite{
     \end{tabular}
 \end{table}
 
-\noindent Para simular a los músicos tocando en la sala de ensayo, se ingresó archivos GLL de
-cada instrumento que compone la orquesta de cámara que ensaya en el lugar.\cite{ackermann2023database}
+\noindent Para simular a los músicos tocando en la sala de ensayo, se utilizó e ingresó al modelo de EASE distintos archivos GLL, provenientes
+de una base de datos de mediciones de instrumentos grabados en una cámara anecóica con una arreglo esférico de micrófonos \cite{ackermann2023database}. 
+De esta base de datos, se escogó los que componen la orquesta de cámara que ensaya en el lugar.
+
 %insertar tabla con datos de cada instrumento
-Estos instrumentos se ubicaron como se muestra en la figura \ref{fig: EASE instrumentos}, distribución que se estableció,
-a partir de imágenes de la orquesta de cámara ensayando en el lugar.(ver figura \ref{fig: ensayo cuerdas OCV} y \ref{fig: ensayo vientos OCV})
+Estos instrumentos se ubicaron como se muestra en la Figura \ref{fig: EASE instrumentos}. Distribución que se estableció
+a partir de imágenes recopiladas de la orquesta de cámara de Valdivia ensayando en el lugar (ver Figuras \ref{fig: ensayo cuerdas OCV} y \ref{fig: ensayo vientos OCV})
 %ingresar imagen de distribución de instrumento en el EASE.
 \begin{figure}
     \centering
-    \includegraphics[width=10cm]{Imagenes/Modelacion/Instrumentos_ease.png}
+    \includegraphics[width=11cm]{Imagenes/Modelacion/Instrumentos_ease.png}
     \caption{Imagen de la distribución de instrumentos en el EASE}
     \label{fig: EASE instrumentos}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=10cm]{Imagenes/OCV/OCV cuerdas.jpg}
+    \includegraphics[width=11cm]{Imagenes/OCV/OCV cuerdas.jpg}
     \caption{Ensayo de cuerdas frotadas de orquesta de cámara en la sala de ensayo}
     \label{fig: ensayo cuerdas OCV}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=10cm]{Imagenes/OCV/OCV vientos.jpg}
+    \includegraphics[width=11cm]{Imagenes/OCV/OCV vientos.jpg}
     \caption{Ensayo de bronces y maderas de la orquesta de cámara en la sala de ensayo}
     \label{fig: ensayo vientos OCV}
 \end{figure}

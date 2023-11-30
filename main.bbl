@@ -350,6 +350,34 @@ Sabine, W\BPBI C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Thiele%
+}{%
+Thiele%
+}{%
+{\protect \APACyear {1953}}%
+}]{%
+Thiele:1953:1610-1928:291}
+\APACinsertmetastar {%
+Thiele:1953:1610-1928:291}%
+\begin{APACrefauthors}%
+Thiele, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1953}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Richtungsverteilung und Zeitfolge der
+  Schallr{\"u}ckw{\"u}rfe in R{\"a}umen} {Richtungsverteilung und zeitfolge der
+  schallr{\"u}ckw{\"u}rfe in r{\"a}umen}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta Acustica united with Acustica}{3}{4}{291-302}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.ingentaconnect.com/content/dav/aaua/1953/00000003/a00204s2/art00007}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Trimble Inc.}%
 }{%
 {Trimble Inc.}%
